@@ -1,4 +1,4 @@
-package com.rox.zktest;
+package com.rox.zkdemo;
 
 import org.apache.zookeeper.CreateMode;
 import org.apache.zookeeper.ZooDefs;

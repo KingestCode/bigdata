@@ -1,4 +1,5 @@
-package com.rox.zktest;
+package com.rox.zkdemo;
+
 
 import org.apache.zookeeper.*;
 import org.apache.zookeeper.data.ACL;
