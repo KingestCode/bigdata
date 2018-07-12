@@ -50,7 +50,7 @@ public class MyClient {
                 while(true){
                     try {
                         buf2.put(("Tom" +  (i ++)).getBytes());
-                        buf2.flip();
+                        buf2.flip();   //切换读写
                         sc.write(buf2);
                         buf2.clear();
                         Thread.sleep(500);
@@ -62,7 +62,6 @@ public class MyClient {
         }.start();
 
         while (true) {
-
             // 选择器选择, 接受 服务端返回的 key
             sel.select();
 

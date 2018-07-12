@@ -34,7 +34,7 @@ public class MyServer {
         // 设置非阻塞
         ssc.configureBlocking(false);
 
-           // 在挑选器中注册通道(服务器通道, 和感兴趣的事件 - OP_ACCEPT)
+        // 在挑选器中注册通道(服务器通道, 和感兴趣的事件 - OP_ACCEPT)
         ssc.register(sel, SelectionKey.OP_ACCEPT);
 
         // 初始化可选择通道对象(为 ServerSocketChannel & SocketChannel 的共同父类)
@@ -87,6 +87,15 @@ public class MyServer {
                             // 拍板, 定稿, > 0说明有数据
                             // position 归0, limit 置在 已写元素 的后面一格, 此时不接受其它写入了
                             buf.flip();
+
+                            System.out.println("===");
+                            // 这里打印出这么个东西
+                            // java.nio.HeapByteBuffer[pos=0 lim=12 cap=1024]
+                            // System.out.println(buf.toString());
+
+                            // 这里打印出来的 buf 是前面已经插入了 hello 的buf
+                            System.out.println(SwitchTool.getString(buf));
+
                             // 持有的 sc 对象写入到channel
                             sc1.write(buf);
                             // 写完后 清空, position 归0, limit 最大
@@ -105,9 +114,6 @@ public class MyServer {
         }
 
     }
-
-
-
 
 
 }
