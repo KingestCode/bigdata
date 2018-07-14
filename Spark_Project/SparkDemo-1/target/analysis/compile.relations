@@ -1,0 +1,22 @@
+products:
+   src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> target/classes/com/rox/spark/scala/MyWordCount_Scala$$anonfun$1.class
+   src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> target/classes/com/rox/spark/scala/MyWordCount_Scala$$anonfun$2.class
+   src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> target/classes/com/rox/spark/scala/MyWordCount_Scala$$anonfun$3.class
+   src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> target/classes/com/rox/spark/scala/MyWordCount_Scala$$anonfun$4.class
+   src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> target/classes/com/rox/spark/scala/MyWordCount_Scala$$anonfun$main$1.class
+   src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> target/classes/com/rox/spark/scala/MyWordCount_Scala$.class
+   src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> target/classes/com/rox/spark/scala/MyWordCount_Scala.class
+binary dependencies:
+   src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/rt.jar
+   src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> /Users/shixuanji/Maven/Repository/org/apache/spark/spark-core_2.11/2.3.0/spark-core_2.11-2.3.0.jar
+   src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> /Users/shixuanji/Maven/Repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+source dependencies:
+external dependencies:
+class names:
+   src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> com.rox.spark.scala.MyWordCount_Scala
+   src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> com.rox.spark.scala.MyWordCount_Scala$
+   src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> com.rox.spark.scala.MyWordCount_Scala$$anonfun$1
+   src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> com.rox.spark.scala.MyWordCount_Scala$$anonfun$2
+   src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> com.rox.spark.scala.MyWordCount_Scala$$anonfun$3
+   src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> com.rox.spark.scala.MyWordCount_Scala$$anonfun$4
+   src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> com.rox.spark.scala.MyWordCount_Scala$$anonfun$main$1

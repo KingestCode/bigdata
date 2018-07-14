@@ -1,0 +1,109 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/target/classes
+compile options:
+0 items
+javac options:
+7 items
+0 -> -g
+1 -> -target
+2 -> 1.8
+3 -> -source
+4 -> 1.8
+5 -> -encoding
+6 -> UTF-8
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> false
+products:
+7 items
+/Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> /Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/target/classes/com/rox/spark/scala/MyWordCount_Scala$$anonfun$1.class
+/Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> /Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/target/classes/com/rox/spark/scala/MyWordCount_Scala$$anonfun$2.class
+/Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> /Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/target/classes/com/rox/spark/scala/MyWordCount_Scala$$anonfun$3.class
+/Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> /Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/target/classes/com/rox/spark/scala/MyWordCount_Scala$$anonfun$4.class
+/Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> /Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/target/classes/com/rox/spark/scala/MyWordCount_Scala$$anonfun$main$1.class
+/Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> /Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/target/classes/com/rox/spark/scala/MyWordCount_Scala$.class
+/Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> /Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/target/classes/com/rox/spark/scala/MyWordCount_Scala.class
+binary dependencies:
+3 items
+/Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/rt.jar
+/Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> /Users/shixuanji/Maven/Repository/org/apache/spark/spark-core_2.11/2.3.0/spark-core_2.11-2.3.0.jar
+/Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> /Users/shixuanji/Maven/Repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+7 items
+/Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> com.rox.spark.scala.MyWordCount_Scala
+/Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> com.rox.spark.scala.MyWordCount_Scala$
+/Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> com.rox.spark.scala.MyWordCount_Scala$$anonfun$1
+/Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> com.rox.spark.scala.MyWordCount_Scala$$anonfun$2
+/Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> com.rox.spark.scala.MyWordCount_Scala$$anonfun$3
+/Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> com.rox.spark.scala.MyWordCount_Scala$$anonfun$4
+/Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> com.rox.spark.scala.MyWordCount_Scala$$anonfun$main$1
+used names:
+0 items
+product stamps:
+7 items
+/Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/target/classes/com/rox/spark/scala/MyWordCount_Scala$$anonfun$1.class -> lastModified(1531484971000)
+/Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/target/classes/com/rox/spark/scala/MyWordCount_Scala$$anonfun$2.class -> lastModified(1531484971000)
+/Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/target/classes/com/rox/spark/scala/MyWordCount_Scala$$anonfun$3.class -> lastModified(1531484971000)
+/Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/target/classes/com/rox/spark/scala/MyWordCount_Scala$$anonfun$4.class -> lastModified(1531484971000)
+/Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/target/classes/com/rox/spark/scala/MyWordCount_Scala$$anonfun$main$1.class -> lastModified(1531484971000)
+/Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/target/classes/com/rox/spark/scala/MyWordCount_Scala$.class -> lastModified(1531484970000)
+/Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/target/classes/com/rox/spark/scala/MyWordCount_Scala.class -> lastModified(1531484970000)
+source stamps:
+2 items
+/Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/src/main/java/com/rox/spark/java/WordCountJava.java -> hash(d250d7c92a2b8c0f073f9931db7e2aea0f2453ab)
+/Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> hash(dbc515d3dfef3cf165ba3b0e8e73ee63da57b80e)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1522267913000)
+/Users/shixuanji/Maven/Repository/org/apache/spark/spark-core_2.11/2.3.0/spark-core_2.11-2.3.0.jar -> lastModified(1525332235000)
+/Users/shixuanji/Maven/Repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar -> lastModified(1525329038000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/shixuanji/Maven/Repository/org/apache/spark/spark-core_2.11/2.3.0/spark-core_2.11-2.3.0.jar -> org.apache.spark.rdd.PairRDDFunctions
+/Users/shixuanji/Maven/Repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar -> scala.Tuple2$
+internal apis:
+2 items
+/Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/src/main/java/com/rox/spark/java/WordCountJava.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC4IVHqAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZJOeDGd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+ABp4cHQAVy9Vc2Vycy9zaGl4dWFuamkvRG9jdW1lbnRzL0lERXMvSW50ZWxsaUpJREVBL2lkZWEtc3BhcmstYmlnNC9TcGFya0RlbW8tMS90YXJnZXQvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFNJQ18kqK4wPBz+ZMdt+KuoPJFOr
+/Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBOmCjAAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAlY29tLnJveC5zcGFyay5zY2FsYS5NeVdvcmRDb3VudF9TY2FsYXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AC94cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AC4AcHNxAH4AM3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAVTAAJaW5oZXJpdGVkcQB+ABVMAAdwYXJlbnRzcQB+ABV4cQB+ADdzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AFnEAfgAgdXEAfgAhAAAAAHNxAH4AIwB0AARtYWludXEAfgAmAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ADZ0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgA2c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4AHHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBVdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+ABxMAAN0cGVxAH4AQXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AKXQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4ASVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4ANnNxAH4ASHQABUFycmF5cQB+AE51cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4ASHQABlN0cmluZ3NxAH4ATHNxAH4AT3VxAH4AUgAAAANzcQB+AFR0AARqYXZhc3EAfgBUdAAEbGFuZ3EAfgBZc3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cQB+AG0AAAACc3EAfgBIdAAGT2JqZWN0cQB+AHFzcQB+AEh0AANBbnlxAH4ATnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+ABx4cHQAE2NvbS5yb3guc3Bhcmsuc2NhbGFzcQB+AIR0AA1jb20ucm94LnNwYXJrc3EAfgCEdAAHY29tLnJveHNxAH4AhHQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZJOeDGd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+ABxMAA9zb3VyY2VEaXJlY3RvcnlxAH4AHHhwdABXL1VzZXJzL3NoaXh1YW5qaS9Eb2N1bWVudHMvSURFcy9JbnRlbGxpSklERUEvaWRlYS1zcGFyay1iaWc0L1NwYXJrRGVtby0xL3RhcmdldC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU28UV09/vPPFlujsOjnPuY9pXuA4=
+external apis:
+0 items
+source infos:
+2 items
+/Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/src/main/java/com/rox/spark/java/WordCountJava.java -> 
+AAAAAAAAAAA=
+/Users/shixuanji/Documents/IDEs/IntelliJIDEA/idea-spark-big4/SparkDemo-1/src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZJOXurR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVy9Vc2Vycy9zaGl4dWFuamkvRG9jdW1lbnRzL0lERXMvSW50ZWxsaUpJREVBL2lkZWEtc3BhcmstYmlnNC9TcGFya0RlbW8tMS90YXJnZXQvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZJOeDGd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVy9Vc2Vycy9zaGl4dWFuamkvRG9jdW1lbnRzL0lERXMvSW50ZWxsaUpJREVBL2lkZWEtc3BhcmstYmlnNC9TcGFya0RlbW8tMS90YXJnZXQvY2xhc3Nlc3QAAS8=
