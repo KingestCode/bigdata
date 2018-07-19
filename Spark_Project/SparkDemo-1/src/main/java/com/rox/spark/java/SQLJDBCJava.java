@@ -37,7 +37,8 @@ public class SQLJDBCJava {
         jdbcDF.show();
 
         // 投影查询
-        Dataset<Row> df2 = jdbcDF.select(new Column("score"),new Column("name"));
+        Dataset<Row> df2;
+        df2 = jdbcDF.select(new Column("score"),new Column("name"));
         // distinct() 去重
         df2 = df2.where("name like 'xu%'").distinct();
 
@@ -49,6 +50,5 @@ public class SQLJDBCJava {
 
         df2.write().jdbc(url,"sub_stu",prop);
         df2.show();
-
     }
 }
