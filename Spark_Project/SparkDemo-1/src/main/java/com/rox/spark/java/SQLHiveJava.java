@@ -1,0 +1,26 @@
+package com.rox.spark.java;
+
+
+import org.apache.spark.SparkConf;
+import org.apache.spark.sql.Column;
+import org.apache.spark.sql.Dataset;
+import org.apache.spark.sql.Row;
+import org.apache.spark.sql.SparkSession;
+
+import java.util.Properties;
+
+
+public class SQLHiveJava {
+    public static void main(String[] args) {
+        SparkConf conf = new SparkConf();
+        conf.setMaster("local") ;
+        conf.setAppName("SQLJava");
+        SparkSession sess = SparkSession.builder()
+                .appName("HiveSQLJava")
+                .config("spark.master","local")
+                .getOrCreate();
+
+        Dataset<Row> df = sess.sql("create table mytt(id int)");
+        df.show();
+    }
+}

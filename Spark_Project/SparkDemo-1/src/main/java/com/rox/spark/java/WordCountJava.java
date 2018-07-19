@@ -28,7 +28,7 @@ public class WordCountJava {
         
         // 压扁
         JavaRDD<String> rdd2 = rdd1.flatMap(new FlatMapFunction<String, String >() {
-            public Iterator<String> call(String s) throws Exception {
+            public Iterator<String> call(String s) {
                 List<String> list = new ArrayList<>();
                 String[] arr = s.split(" ");
                 for (String ss : arr) {
@@ -41,7 +41,7 @@ public class WordCountJava {
         // 映射 word => (word,1)
         JavaPairRDD<String, Integer> rdd3 = rdd2.mapToPair(new PairFunction<String, String, Integer>() {
             @Override
-            public Tuple2<String, Integer> call(String s) throws Exception {
+            public Tuple2<String, Integer> call(String s) {
                 return new Tuple2<String, Integer>(s, 1);
             }
         });
@@ -50,7 +50,7 @@ public class WordCountJava {
         // 聚合 reduceByKey (对2个参数进行聚合产生一个新的值)
         JavaPairRDD<String, Integer> rdd4 = rdd3.reduceByKey(new Function2<Integer, Integer, Integer>() {
             @Override
-            public Integer call(Integer v1, Integer v2) throws Exception {
+            public Integer call(Integer v1, Integer v2) {
                 return v1 + v2;
             }
         });

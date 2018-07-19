@@ -5,7 +5,7 @@ import org.apache.spark.{SparkConf, SparkContext}
 
 /**
   * countByKey, 统计 key 的个数
-    reduceByKey, 根据 key 计算相同 key 后的 v
+  * reduceByKey, 根据 key 计算相同 key 后的 v
   */
 object MyWordCount_Scala {
 
@@ -66,10 +66,10 @@ object MyWordCount_Scala {
     println("总单词数: " + count) // 打印总单词数 (这里是 filter 掉带有 wor 后的单词各个数)
 
 
-    //    // collect
-    //    val r = rdd4.collect()
-    //
-    //    // 遍历输出
-    //    r.foreach(println)
+    // collect
+    val r = rdd4.collect()
+
+    // 遍历输出
+    r.foreach(println)
   }
 }
