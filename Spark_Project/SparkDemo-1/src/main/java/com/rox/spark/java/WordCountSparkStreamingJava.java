@@ -18,17 +18,23 @@ import java.util.Iterator;
 import java.util.List;
 
 
+/**
+ *  可用于跨批次统计 updateStateByKeya
+ *  可以记录旧值
+ */
 public class WordCountSparkStreamingJava {
     public static void main(String[] args) throws Exception {
         SparkConf conf = new SparkConf();
         conf.setAppName("wc");
         conf.setMaster("local[4]");
         //创建Spark流应用上下文
-        JavaStreamingContext jsc = new JavaStreamingContext(conf, Seconds.apply(2));
+        JavaStreamingContext jsc = new JavaStreamingContext(conf, Seconds.apply(3));
 
-//        jsc.checkpoint("file:///tmp/cp");
-        //创建socket离散流
-        JavaReceiverInputDStream sock = jsc.socketTextStream("localhost",10020);
+        // 创建检查点
+        jsc.checkpoint("file:///Users/shixuanji/Documents/Code/temp/test");
+
+        //创建socket离散流  ----注意: 端口问题
+        JavaReceiverInputDStream sock = jsc.socketTextStream("localhost",10086);
         //压扁
         JavaDStream<String> wordsDS = sock.flatMap(new FlatMapFunction<String,String>() {
             public Iterator call(String str) {
@@ -47,29 +53,29 @@ public class WordCountSparkStreamingJava {
                 return new Tuple2<String,Integer>(s,1);
             }
         }) ;
-//
-//        JavaPairDStream<String,Integer> jps = pairDS.updateStateByKey(new Function2<List<Integer>, Optional<Integer>, Optional<Integer>>() {
-//            public Optional<Integer> call(List<Integer> v1, Optional<Integer> v2) throws Exception {
-//                Integer newCount = v2.isPresent() ? v2.get() : 0  ;
-//
-//                System.out.println("old value : " + newCount);
-//                for(Integer i : v1){
-//                    System.out.println("new value : " + i);
-//                    newCount = newCount +  i;
-//                }
-//                return Optional.of(newCount);
-//            }
-//        });
-//
+
+
+        // 可用于跨批次统计 updateStateByKeya
+        JavaPairDStream<String,Integer> jps = pairDS.updateStateByKey(new Function2<List<Integer>, Optional<Integer>, Optional<Integer>>() {
+            public Optional<Integer> call(List<Integer> v1, Optional<Integer> v2) throws Exception {
+                Integer newCount = v2.isPresent() ? v2.get() : 0  ;
+
+                System.out.println("old value : " + newCount);
+                for(Integer i : v1){
+                    System.out.println("new value : " + i);
+                    newCount = newCount +  i;
+                }
+                return Optional.of(newCount);
+            }
+        });
 
 
         //聚合
-        JavaPairDStream<String,Integer> countDS = pairDS.reduceByKey(new Function2<Integer, Integer, Integer>() {
+        JavaPairDStream<String,Integer> countDS = jps.reduceByKey(new Function2<Integer, Integer, Integer>() {
             public Integer call(Integer v1, Integer v2) {
                 return v1 + v2;
             }
         });
-
 
         //打印
         countDS.print();
