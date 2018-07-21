@@ -58,11 +58,11 @@ object SpamFilterDemo1 {
     println("==============以下皆为尝试, 并非预测, 预测已经在上一步结束了=================")
     //类似于切割动作。
     val wordsDF = tokenizer.transform(training)
-    wordsDF.show()
+//    wordsDF.show()
 
     // 对切割出来的 df 进行 hash 变换为数字..
     val featurizedDF = hashingTF.transform(wordsDF)
-    featurizedDF.show()
+//    featurizedDF.show()
 
   }
 }
