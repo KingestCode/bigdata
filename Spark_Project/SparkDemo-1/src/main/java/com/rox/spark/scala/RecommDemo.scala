@@ -29,7 +29,7 @@ object RecommDemo {
     }
 
     //通过model对(user,product)进行预测
-//    val ug2 = sc.makeRDD(Array((2, 3), (2, 4)))
+    //    val ug2 = sc.makeRDD(Array((2, 3), (2, 4)))
 
     // 直接拿出训练数据的 (user, product), 用模型来做匹配, 预测结果的格式是: ((user, product),rate)
     val predictions =
@@ -37,8 +37,25 @@ object RecommDemo {
         ((user, product), rate)
       }
 
+    //--------------------------------
+
+    //    //向用户推荐n款商品
+    //    val res = model.recommendProducts(5,8);
+    //    //将指定的商品推荐给n个用户
+    //    val res = model.recommendUsers(3,5)
+
+    //向所有用户推荐3种商品
+    val res = model.recommendProductsForUsers(3)
+    res.foreach(e => {
+      println(e._1 + " ======= ")
+      e._2.foreach(println)
+    })
+
+
+    //--------------------------------
+
     // 打印预测数据
-//    predictions.collect().foreach(println)
+    //    predictions.collect().foreach(println)
 
 
     //对训练数据进行map ，((user, product),rate)
@@ -60,7 +77,7 @@ object RecommDemo {
 
     // Save and load model
     model.save(sc, "file:///Users/shixuanji/Documents/Code/Datas/SparkExam/mydata/recomm_model1")
-//    val sameModel = MatrixFactorizationModel.load(sc, "file:///Users/shixuanji/Documents/Code/Datas/SparkExam/mydata/recomm_model1")
+    //    val sameModel = MatrixFactorizationModel.load(sc, "file:///Users/shixuanji/Documents/Code/Datas/SparkExam/mydata/recomm_model1")
   }
 
 }
