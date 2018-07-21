@@ -58,9 +58,6 @@ public class SQLJava {
         df1.write().mode(SaveMode.Append).json("file:///Users/shixuanji/Documents/IDEs/iTerm2/Json/2018-07-17-1");
 
 
-
-
-
     }
 
 
