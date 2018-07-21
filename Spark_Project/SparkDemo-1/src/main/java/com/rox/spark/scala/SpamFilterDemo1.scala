@@ -14,7 +14,7 @@ object SpamFilterDemo1 {
     val sess = SparkSession.builder.appName("SpamFilterDemo1").master("local[4]").getOrCreate
     val sc = sess.sparkContext
 
-    //分词器,指定输入列，生成输出列
+    //分词器,指定输入列，生成输出列 (输入列就是训练数据集中的 message 列)
     val tokenizer = new Tokenizer().setInputCol("message").setOutputCol("words")
 
     //哈希词频
