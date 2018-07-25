@@ -28,6 +28,11 @@ products:
    src/main/java/com/rox/spark/scala/DataSkewDemo1.scala -> target/classes/com/rox/spark/scala/DataSkewDemo1$$anonfun$main$6.class
    src/main/java/com/rox/spark/scala/DataSkewDemo1.scala -> target/classes/com/rox/spark/scala/DataSkewDemo1$.class
    src/main/java/com/rox/spark/scala/DataSkewDemo1.scala -> target/classes/com/rox/spark/scala/DataSkewDemo1.class
+   src/main/java/com/rox/spark/scala/DeployModeTest.scala -> target/classes/com/rox/spark/scala/DeployModeTest$$anonfun$1.class
+   src/main/java/com/rox/spark/scala/DeployModeTest.scala -> target/classes/com/rox/spark/scala/DeployModeTest$$anonfun$2.class
+   src/main/java/com/rox/spark/scala/DeployModeTest.scala -> target/classes/com/rox/spark/scala/DeployModeTest$$anonfun$3.class
+   src/main/java/com/rox/spark/scala/DeployModeTest.scala -> target/classes/com/rox/spark/scala/DeployModeTest$.class
+   src/main/java/com/rox/spark/scala/DeployModeTest.scala -> target/classes/com/rox/spark/scala/DeployModeTest.class
    src/main/java/com/rox/spark/scala/DistinctDemo1.scala -> target/classes/com/rox/spark/scala/DistinctDemo1$$anonfun$1.class
    src/main/java/com/rox/spark/scala/DistinctDemo1.scala -> target/classes/com/rox/spark/scala/DistinctDemo1$$anonfun$main$1.class
    src/main/java/com/rox/spark/scala/DistinctDemo1.scala -> target/classes/com/rox/spark/scala/DistinctDemo1$.class
@@ -49,6 +54,22 @@ products:
    src/main/java/com/rox/spark/scala/JoinDemo1.scala -> target/classes/com/rox/spark/scala/JoinDemo1$$anonfun$main$1.class
    src/main/java/com/rox/spark/scala/JoinDemo1.scala -> target/classes/com/rox/spark/scala/JoinDemo1$.class
    src/main/java/com/rox/spark/scala/JoinDemo1.scala -> target/classes/com/rox/spark/scala/JoinDemo1.class
+   src/main/java/com/rox/spark/scala/LogicRegressWineClassifyDemo.scala -> target/classes/com/rox/spark/scala/LogicRegressWineClassifyDemo$$anonfun$1.class
+   src/main/java/com/rox/spark/scala/LogicRegressWineClassifyDemo.scala -> target/classes/com/rox/spark/scala/LogicRegressWineClassifyDemo$$anonfun$2.class
+   src/main/java/com/rox/spark/scala/LogicRegressWineClassifyDemo.scala -> target/classes/com/rox/spark/scala/LogicRegressWineClassifyDemo$$anonfun$3.class
+   src/main/java/com/rox/spark/scala/LogicRegressWineClassifyDemo.scala -> target/classes/com/rox/spark/scala/LogicRegressWineClassifyDemo$$typecreator2$1.class
+   src/main/java/com/rox/spark/scala/LogicRegressWineClassifyDemo.scala -> target/classes/com/rox/spark/scala/LogicRegressWineClassifyDemo$$typecreator3$1.class
+   src/main/java/com/rox/spark/scala/LogicRegressWineClassifyDemo.scala -> target/classes/com/rox/spark/scala/LogicRegressWineClassifyDemo$.class
+   src/main/java/com/rox/spark/scala/LogicRegressWineClassifyDemo.scala -> target/classes/com/rox/spark/scala/LogicRegressWineClassifyDemo$Wine$3.class
+   src/main/java/com/rox/spark/scala/LogicRegressWineClassifyDemo.scala -> target/classes/com/rox/spark/scala/LogicRegressWineClassifyDemo$Wine$4$.class
+   src/main/java/com/rox/spark/scala/LogicRegressWineClassifyDemo.scala -> target/classes/com/rox/spark/scala/LogicRegressWineClassifyDemo.class
+   src/main/java/com/rox/spark/scala/MovieRecommDemo.scala -> target/classes/com/rox/spark/scala/MovieRecommDemo$$anonfun$1.class
+   src/main/java/com/rox/spark/scala/MovieRecommDemo.scala -> target/classes/com/rox/spark/scala/MovieRecommDemo$$anonfun$main$1.class
+   src/main/java/com/rox/spark/scala/MovieRecommDemo.scala -> target/classes/com/rox/spark/scala/MovieRecommDemo$$typecreator2$1.class
+   src/main/java/com/rox/spark/scala/MovieRecommDemo.scala -> target/classes/com/rox/spark/scala/MovieRecommDemo$.class
+   src/main/java/com/rox/spark/scala/MovieRecommDemo.scala -> target/classes/com/rox/spark/scala/MovieRecommDemo$Rating0$.class
+   src/main/java/com/rox/spark/scala/MovieRecommDemo.scala -> target/classes/com/rox/spark/scala/MovieRecommDemo$Rating0.class
+   src/main/java/com/rox/spark/scala/MovieRecommDemo.scala -> target/classes/com/rox/spark/scala/MovieRecommDemo.class
    src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> target/classes/com/rox/spark/scala/MyWordCount_Scala$$anonfun$1.class
    src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> target/classes/com/rox/spark/scala/MyWordCount_Scala$$anonfun$2.class
    src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> target/classes/com/rox/spark/scala/MyWordCount_Scala$$anonfun$3.class
@@ -58,6 +79,7 @@ products:
    src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> target/classes/com/rox/spark/scala/MyWordCount_Scala$$anonfun$7.class
    src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> target/classes/com/rox/spark/scala/MyWordCount_Scala$$anonfun$8.class
    src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> target/classes/com/rox/spark/scala/MyWordCount_Scala$$anonfun$main$1.class
+   src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> target/classes/com/rox/spark/scala/MyWordCount_Scala$$anonfun$main$2.class
    src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> target/classes/com/rox/spark/scala/MyWordCount_Scala$.class
    src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> target/classes/com/rox/spark/scala/MyWordCount_Scala.class
    src/main/java/com/rox/spark/scala/PersistScala.scala -> target/classes/com/rox/spark/scala/PersistScala$$anonfun$1.class
@@ -65,10 +87,27 @@ products:
    src/main/java/com/rox/spark/scala/PersistScala.scala -> target/classes/com/rox/spark/scala/PersistScala$$anonfun$main$2.class
    src/main/java/com/rox/spark/scala/PersistScala.scala -> target/classes/com/rox/spark/scala/PersistScala$.class
    src/main/java/com/rox/spark/scala/PersistScala.scala -> target/classes/com/rox/spark/scala/PersistScala.class
+   src/main/java/com/rox/spark/scala/RecommDemo.scala -> target/classes/com/rox/spark/scala/RecommDemo$$anonfun$1.class
+   src/main/java/com/rox/spark/scala/RecommDemo.scala -> target/classes/com/rox/spark/scala/RecommDemo$$anonfun$2.class
+   src/main/java/com/rox/spark/scala/RecommDemo.scala -> target/classes/com/rox/spark/scala/RecommDemo$$anonfun$3.class
+   src/main/java/com/rox/spark/scala/RecommDemo.scala -> target/classes/com/rox/spark/scala/RecommDemo$$anonfun$4.class
+   src/main/java/com/rox/spark/scala/RecommDemo.scala -> target/classes/com/rox/spark/scala/RecommDemo$$anonfun$5.class
+   src/main/java/com/rox/spark/scala/RecommDemo.scala -> target/classes/com/rox/spark/scala/RecommDemo$$anonfun$main$1$$anonfun$apply$1.class
+   src/main/java/com/rox/spark/scala/RecommDemo.scala -> target/classes/com/rox/spark/scala/RecommDemo$$anonfun$main$1.class
+   src/main/java/com/rox/spark/scala/RecommDemo.scala -> target/classes/com/rox/spark/scala/RecommDemo$$anonfun$main$2.class
+   src/main/java/com/rox/spark/scala/RecommDemo.scala -> target/classes/com/rox/spark/scala/RecommDemo$.class
+   src/main/java/com/rox/spark/scala/RecommDemo.scala -> target/classes/com/rox/spark/scala/RecommDemo.class
    src/main/java/com/rox/spark/scala/SampleDemo1.scala -> target/classes/com/rox/spark/scala/SampleDemo1$$anonfun$1.class
    src/main/java/com/rox/spark/scala/SampleDemo1.scala -> target/classes/com/rox/spark/scala/SampleDemo1$$anonfun$main$1.class
    src/main/java/com/rox/spark/scala/SampleDemo1.scala -> target/classes/com/rox/spark/scala/SampleDemo1$.class
    src/main/java/com/rox/spark/scala/SampleDemo1.scala -> target/classes/com/rox/spark/scala/SampleDemo1.class
+   src/main/java/com/rox/spark/scala/SpamFilterDemo1.scala -> target/classes/com/rox/spark/scala/SpamFilterDemo1$$typecreator1$1.class
+   src/main/java/com/rox/spark/scala/SpamFilterDemo1.scala -> target/classes/com/rox/spark/scala/SpamFilterDemo1$$typecreator2$1.class
+   src/main/java/com/rox/spark/scala/SpamFilterDemo1.scala -> target/classes/com/rox/spark/scala/SpamFilterDemo1$.class
+   src/main/java/com/rox/spark/scala/SpamFilterDemo1.scala -> target/classes/com/rox/spark/scala/SpamFilterDemo1.class
+   src/main/java/com/rox/spark/scala/SparkMLDemo1.scala -> target/classes/com/rox/spark/scala/SparkMLDemo1$$typecreator1$1.class
+   src/main/java/com/rox/spark/scala/SparkMLDemo1.scala -> target/classes/com/rox/spark/scala/SparkMLDemo1$.class
+   src/main/java/com/rox/spark/scala/SparkMLDemo1.scala -> target/classes/com/rox/spark/scala/SparkMLDemo1.class
    src/main/java/com/rox/spark/scala/SparkStreamingDemo.scala -> target/classes/com/rox/spark/scala/SparkStreamingDemo$$anonfun$1.class
    src/main/java/com/rox/spark/scala/SparkStreamingDemo.scala -> target/classes/com/rox/spark/scala/SparkStreamingDemo$$anonfun$2.class
    src/main/java/com/rox/spark/scala/SparkStreamingDemo.scala -> target/classes/com/rox/spark/scala/SparkStreamingDemo$$anonfun$3.class
@@ -115,6 +154,9 @@ binary dependencies:
    src/main/java/com/rox/spark/scala/DataSkewDemo1.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/rt.jar
    src/main/java/com/rox/spark/scala/DataSkewDemo1.scala -> /Users/shixuanji/Maven/Repository/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.jar
    src/main/java/com/rox/spark/scala/DataSkewDemo1.scala -> /Users/shixuanji/Maven/Repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+   src/main/java/com/rox/spark/scala/DeployModeTest.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/rt.jar
+   src/main/java/com/rox/spark/scala/DeployModeTest.scala -> /Users/shixuanji/Maven/Repository/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.jar
+   src/main/java/com/rox/spark/scala/DeployModeTest.scala -> /Users/shixuanji/Maven/Repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
    src/main/java/com/rox/spark/scala/DistinctDemo1.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/rt.jar
    src/main/java/com/rox/spark/scala/DistinctDemo1.scala -> /Users/shixuanji/Maven/Repository/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.jar
    src/main/java/com/rox/spark/scala/DistinctDemo1.scala -> /Users/shixuanji/Maven/Repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
@@ -127,15 +169,43 @@ binary dependencies:
    src/main/java/com/rox/spark/scala/JoinDemo1.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/rt.jar
    src/main/java/com/rox/spark/scala/JoinDemo1.scala -> /Users/shixuanji/Maven/Repository/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.jar
    src/main/java/com/rox/spark/scala/JoinDemo1.scala -> /Users/shixuanji/Maven/Repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+   src/main/java/com/rox/spark/scala/LogicRegressWineClassifyDemo.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/rt.jar
+   src/main/java/com/rox/spark/scala/LogicRegressWineClassifyDemo.scala -> /Users/shixuanji/Maven/Repository/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.jar
+   src/main/java/com/rox/spark/scala/LogicRegressWineClassifyDemo.scala -> /Users/shixuanji/Maven/Repository/org/apache/spark/spark-mllib-local_2.11/2.1.0/spark-mllib-local_2.11-2.1.0.jar
+   src/main/java/com/rox/spark/scala/LogicRegressWineClassifyDemo.scala -> /Users/shixuanji/Maven/Repository/org/apache/spark/spark-mllib_2.11/2.1.0/spark-mllib_2.11-2.1.0.jar
+   src/main/java/com/rox/spark/scala/LogicRegressWineClassifyDemo.scala -> /Users/shixuanji/Maven/Repository/org/apache/spark/spark-sql_2.11/2.1.0/spark-sql_2.11-2.1.0.jar
+   src/main/java/com/rox/spark/scala/LogicRegressWineClassifyDemo.scala -> /Users/shixuanji/Maven/Repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+   src/main/java/com/rox/spark/scala/LogicRegressWineClassifyDemo.scala -> /Users/shixuanji/Maven/Repository/org/scala-lang/scala-reflect/2.11.7/scala-reflect-2.11.7.jar
+   src/main/java/com/rox/spark/scala/MovieRecommDemo.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/rt.jar
+   src/main/java/com/rox/spark/scala/MovieRecommDemo.scala -> /Users/shixuanji/Maven/Repository/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.jar
+   src/main/java/com/rox/spark/scala/MovieRecommDemo.scala -> /Users/shixuanji/Maven/Repository/org/apache/spark/spark-mllib_2.11/2.1.0/spark-mllib_2.11-2.1.0.jar
+   src/main/java/com/rox/spark/scala/MovieRecommDemo.scala -> /Users/shixuanji/Maven/Repository/org/apache/spark/spark-sql_2.11/2.1.0/spark-sql_2.11-2.1.0.jar
+   src/main/java/com/rox/spark/scala/MovieRecommDemo.scala -> /Users/shixuanji/Maven/Repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+   src/main/java/com/rox/spark/scala/MovieRecommDemo.scala -> /Users/shixuanji/Maven/Repository/org/scala-lang/scala-reflect/2.11.7/scala-reflect-2.11.7.jar
    src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/rt.jar
    src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> /Users/shixuanji/Maven/Repository/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.jar
    src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> /Users/shixuanji/Maven/Repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
    src/main/java/com/rox/spark/scala/PersistScala.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/rt.jar
    src/main/java/com/rox/spark/scala/PersistScala.scala -> /Users/shixuanji/Maven/Repository/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.jar
    src/main/java/com/rox/spark/scala/PersistScala.scala -> /Users/shixuanji/Maven/Repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+   src/main/java/com/rox/spark/scala/RecommDemo.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/rt.jar
+   src/main/java/com/rox/spark/scala/RecommDemo.scala -> /Users/shixuanji/Maven/Repository/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.jar
+   src/main/java/com/rox/spark/scala/RecommDemo.scala -> /Users/shixuanji/Maven/Repository/org/apache/spark/spark-mllib_2.11/2.1.0/spark-mllib_2.11-2.1.0.jar
+   src/main/java/com/rox/spark/scala/RecommDemo.scala -> /Users/shixuanji/Maven/Repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
    src/main/java/com/rox/spark/scala/SampleDemo1.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/rt.jar
    src/main/java/com/rox/spark/scala/SampleDemo1.scala -> /Users/shixuanji/Maven/Repository/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.jar
    src/main/java/com/rox/spark/scala/SampleDemo1.scala -> /Users/shixuanji/Maven/Repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+   src/main/java/com/rox/spark/scala/SpamFilterDemo1.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/rt.jar
+   src/main/java/com/rox/spark/scala/SpamFilterDemo1.scala -> /Users/shixuanji/Maven/Repository/org/apache/spark/spark-mllib_2.11/2.1.0/spark-mllib_2.11-2.1.0.jar
+   src/main/java/com/rox/spark/scala/SpamFilterDemo1.scala -> /Users/shixuanji/Maven/Repository/org/apache/spark/spark-sql_2.11/2.1.0/spark-sql_2.11-2.1.0.jar
+   src/main/java/com/rox/spark/scala/SpamFilterDemo1.scala -> /Users/shixuanji/Maven/Repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+   src/main/java/com/rox/spark/scala/SpamFilterDemo1.scala -> /Users/shixuanji/Maven/Repository/org/scala-lang/scala-reflect/2.11.7/scala-reflect-2.11.7.jar
+   src/main/java/com/rox/spark/scala/SparkMLDemo1.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/rt.jar
+   src/main/java/com/rox/spark/scala/SparkMLDemo1.scala -> /Users/shixuanji/Maven/Repository/org/apache/spark/spark-mllib-local_2.11/2.1.0/spark-mllib-local_2.11-2.1.0.jar
+   src/main/java/com/rox/spark/scala/SparkMLDemo1.scala -> /Users/shixuanji/Maven/Repository/org/apache/spark/spark-mllib_2.11/2.1.0/spark-mllib_2.11-2.1.0.jar
+   src/main/java/com/rox/spark/scala/SparkMLDemo1.scala -> /Users/shixuanji/Maven/Repository/org/apache/spark/spark-sql_2.11/2.1.0/spark-sql_2.11-2.1.0.jar
+   src/main/java/com/rox/spark/scala/SparkMLDemo1.scala -> /Users/shixuanji/Maven/Repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+   src/main/java/com/rox/spark/scala/SparkMLDemo1.scala -> /Users/shixuanji/Maven/Repository/org/scala-lang/scala-reflect/2.11.7/scala-reflect-2.11.7.jar
    src/main/java/com/rox/spark/scala/SparkStreamingDemo.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/rt.jar
    src/main/java/com/rox/spark/scala/SparkStreamingDemo.scala -> /Users/shixuanji/Maven/Repository/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.jar
    src/main/java/com/rox/spark/scala/SparkStreamingDemo.scala -> /Users/shixuanji/Maven/Repository/org/apache/spark/spark-streaming_2.11/2.1.0/spark-streaming_2.11-2.1.0.jar
@@ -184,6 +254,11 @@ class names:
    src/main/java/com/rox/spark/scala/DataSkewDemo1.scala -> com.rox.spark.scala.DataSkewDemo1$$anonfun$main$4
    src/main/java/com/rox/spark/scala/DataSkewDemo1.scala -> com.rox.spark.scala.DataSkewDemo1$$anonfun$main$5
    src/main/java/com/rox/spark/scala/DataSkewDemo1.scala -> com.rox.spark.scala.DataSkewDemo1$$anonfun$main$6
+   src/main/java/com/rox/spark/scala/DeployModeTest.scala -> com.rox.spark.scala.DeployModeTest
+   src/main/java/com/rox/spark/scala/DeployModeTest.scala -> com.rox.spark.scala.DeployModeTest$
+   src/main/java/com/rox/spark/scala/DeployModeTest.scala -> com.rox.spark.scala.DeployModeTest$$anonfun$1
+   src/main/java/com/rox/spark/scala/DeployModeTest.scala -> com.rox.spark.scala.DeployModeTest$$anonfun$2
+   src/main/java/com/rox/spark/scala/DeployModeTest.scala -> com.rox.spark.scala.DeployModeTest$$anonfun$3
    src/main/java/com/rox/spark/scala/DistinctDemo1.scala -> com.rox.spark.scala.DistinctDemo1
    src/main/java/com/rox/spark/scala/DistinctDemo1.scala -> com.rox.spark.scala.DistinctDemo1$
    src/main/java/com/rox/spark/scala/DistinctDemo1.scala -> com.rox.spark.scala.DistinctDemo1$$anonfun$1
@@ -205,6 +280,22 @@ class names:
    src/main/java/com/rox/spark/scala/JoinDemo1.scala -> com.rox.spark.scala.JoinDemo1$$anonfun$1
    src/main/java/com/rox/spark/scala/JoinDemo1.scala -> com.rox.spark.scala.JoinDemo1$$anonfun$2
    src/main/java/com/rox/spark/scala/JoinDemo1.scala -> com.rox.spark.scala.JoinDemo1$$anonfun$main$1
+   src/main/java/com/rox/spark/scala/LogicRegressWineClassifyDemo.scala -> com.rox.spark.scala.LogicRegressWineClassifyDemo
+   src/main/java/com/rox/spark/scala/LogicRegressWineClassifyDemo.scala -> com.rox.spark.scala.LogicRegressWineClassifyDemo$
+   src/main/java/com/rox/spark/scala/LogicRegressWineClassifyDemo.scala -> com.rox.spark.scala.LogicRegressWineClassifyDemo$$anonfun$1
+   src/main/java/com/rox/spark/scala/LogicRegressWineClassifyDemo.scala -> com.rox.spark.scala.LogicRegressWineClassifyDemo$$anonfun$2
+   src/main/java/com/rox/spark/scala/LogicRegressWineClassifyDemo.scala -> com.rox.spark.scala.LogicRegressWineClassifyDemo$$anonfun$3
+   src/main/java/com/rox/spark/scala/LogicRegressWineClassifyDemo.scala -> com.rox.spark.scala.LogicRegressWineClassifyDemo$$typecreator2$1
+   src/main/java/com/rox/spark/scala/LogicRegressWineClassifyDemo.scala -> com.rox.spark.scala.LogicRegressWineClassifyDemo$$typecreator3$1
+   src/main/java/com/rox/spark/scala/LogicRegressWineClassifyDemo.scala -> com.rox.spark.scala.LogicRegressWineClassifyDemo$Wine$3
+   src/main/java/com/rox/spark/scala/LogicRegressWineClassifyDemo.scala -> com.rox.spark.scala.LogicRegressWineClassifyDemo$Wine$4$
+   src/main/java/com/rox/spark/scala/MovieRecommDemo.scala -> com.rox.spark.scala.MovieRecommDemo
+   src/main/java/com/rox/spark/scala/MovieRecommDemo.scala -> com.rox.spark.scala.MovieRecommDemo$
+   src/main/java/com/rox/spark/scala/MovieRecommDemo.scala -> com.rox.spark.scala.MovieRecommDemo$$anonfun$1
+   src/main/java/com/rox/spark/scala/MovieRecommDemo.scala -> com.rox.spark.scala.MovieRecommDemo$$anonfun$main$1
+   src/main/java/com/rox/spark/scala/MovieRecommDemo.scala -> com.rox.spark.scala.MovieRecommDemo$$typecreator2$1
+   src/main/java/com/rox/spark/scala/MovieRecommDemo.scala -> com.rox.spark.scala.MovieRecommDemo$Rating0
+   src/main/java/com/rox/spark/scala/MovieRecommDemo.scala -> com.rox.spark.scala.MovieRecommDemo$Rating0$
    src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> com.rox.spark.scala.MyWordCount_Scala
    src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> com.rox.spark.scala.MyWordCount_Scala$
    src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> com.rox.spark.scala.MyWordCount_Scala$$anonfun$1
@@ -216,15 +307,33 @@ class names:
    src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> com.rox.spark.scala.MyWordCount_Scala$$anonfun$7
    src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> com.rox.spark.scala.MyWordCount_Scala$$anonfun$8
    src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> com.rox.spark.scala.MyWordCount_Scala$$anonfun$main$1
+   src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala -> com.rox.spark.scala.MyWordCount_Scala$$anonfun$main$2
    src/main/java/com/rox/spark/scala/PersistScala.scala -> com.rox.spark.scala.PersistScala
    src/main/java/com/rox/spark/scala/PersistScala.scala -> com.rox.spark.scala.PersistScala$
    src/main/java/com/rox/spark/scala/PersistScala.scala -> com.rox.spark.scala.PersistScala$$anonfun$1
    src/main/java/com/rox/spark/scala/PersistScala.scala -> com.rox.spark.scala.PersistScala$$anonfun$main$1
    src/main/java/com/rox/spark/scala/PersistScala.scala -> com.rox.spark.scala.PersistScala$$anonfun$main$2
+   src/main/java/com/rox/spark/scala/RecommDemo.scala -> com.rox.spark.scala.RecommDemo
+   src/main/java/com/rox/spark/scala/RecommDemo.scala -> com.rox.spark.scala.RecommDemo$
+   src/main/java/com/rox/spark/scala/RecommDemo.scala -> com.rox.spark.scala.RecommDemo$$anonfun$1
+   src/main/java/com/rox/spark/scala/RecommDemo.scala -> com.rox.spark.scala.RecommDemo$$anonfun$2
+   src/main/java/com/rox/spark/scala/RecommDemo.scala -> com.rox.spark.scala.RecommDemo$$anonfun$3
+   src/main/java/com/rox/spark/scala/RecommDemo.scala -> com.rox.spark.scala.RecommDemo$$anonfun$4
+   src/main/java/com/rox/spark/scala/RecommDemo.scala -> com.rox.spark.scala.RecommDemo$$anonfun$5
+   src/main/java/com/rox/spark/scala/RecommDemo.scala -> com.rox.spark.scala.RecommDemo$$anonfun$main$1
+   src/main/java/com/rox/spark/scala/RecommDemo.scala -> com.rox.spark.scala.RecommDemo$$anonfun$main$1$$anonfun$apply$1
+   src/main/java/com/rox/spark/scala/RecommDemo.scala -> com.rox.spark.scala.RecommDemo$$anonfun$main$2
    src/main/java/com/rox/spark/scala/SampleDemo1.scala -> com.rox.spark.scala.SampleDemo1
    src/main/java/com/rox/spark/scala/SampleDemo1.scala -> com.rox.spark.scala.SampleDemo1$
    src/main/java/com/rox/spark/scala/SampleDemo1.scala -> com.rox.spark.scala.SampleDemo1$$anonfun$1
    src/main/java/com/rox/spark/scala/SampleDemo1.scala -> com.rox.spark.scala.SampleDemo1$$anonfun$main$1
+   src/main/java/com/rox/spark/scala/SpamFilterDemo1.scala -> com.rox.spark.scala.SpamFilterDemo1
+   src/main/java/com/rox/spark/scala/SpamFilterDemo1.scala -> com.rox.spark.scala.SpamFilterDemo1$
+   src/main/java/com/rox/spark/scala/SpamFilterDemo1.scala -> com.rox.spark.scala.SpamFilterDemo1$$typecreator1$1
+   src/main/java/com/rox/spark/scala/SpamFilterDemo1.scala -> com.rox.spark.scala.SpamFilterDemo1$$typecreator2$1
+   src/main/java/com/rox/spark/scala/SparkMLDemo1.scala -> com.rox.spark.scala.SparkMLDemo1
+   src/main/java/com/rox/spark/scala/SparkMLDemo1.scala -> com.rox.spark.scala.SparkMLDemo1$
+   src/main/java/com/rox/spark/scala/SparkMLDemo1.scala -> com.rox.spark.scala.SparkMLDemo1$$typecreator1$1
    src/main/java/com/rox/spark/scala/SparkStreamingDemo.scala -> com.rox.spark.scala.SparkStreamingDemo
    src/main/java/com/rox/spark/scala/SparkStreamingDemo.scala -> com.rox.spark.scala.SparkStreamingDemo$
    src/main/java/com/rox/spark/scala/SparkStreamingDemo.scala -> com.rox.spark.scala.SparkStreamingDemo$$anonfun$1
