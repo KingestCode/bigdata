@@ -33,6 +33,7 @@ object DataSkewDemo1 {
       (w3, count)
     }).reduceByKey(_ + _,4).saveAsTextFile("/Users/shixuanji/Documents/IDEs/iTerm2/scala/DataSkew")
 
+
     //reduceByKey(..) : 对相同的 key 的 v 做处理
   }
 

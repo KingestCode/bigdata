@@ -11,7 +11,7 @@ object CoalesceDemo1 {
     conf.setMaster("local[8]")
     val sc = new SparkContext(conf)
 
-    val rdd1 = sc.textFile("/Users/shixuanji/Documents/IDEs/iTerm2/scala/a.txt", 4)
+    val rdd1 = sc.textFile("file:///Users/shixuanji/Documents/IDEs/iTerm2/scala/a.txt", 4)
     println("rdd1' parti : " + rdd1.partitions.length)
 
     //降低分区

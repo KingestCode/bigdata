@@ -3,6 +3,7 @@ package com.rox.spark.scala
 import org.apache.spark.{SparkConf, SparkContext}
 
 /**
+  * 求rdd并集，但是不去重
   * Union 就是把两者合并起来
   * Returns a new RDD that contains the intersection of elements in the source dataset and the argument dataset and the argument.
   */
