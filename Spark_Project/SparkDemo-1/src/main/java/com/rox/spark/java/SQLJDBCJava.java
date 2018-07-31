@@ -1,10 +1,7 @@
 package com.rox.spark.java;
 
 import org.apache.spark.SparkConf;
-import org.apache.spark.sql.Column;
-import org.apache.spark.sql.Dataset;
-import org.apache.spark.sql.Row;
-import org.apache.spark.sql.SparkSession;
+import org.apache.spark.sql.*;
 
 import java.util.Properties;
 
@@ -12,10 +9,9 @@ public class SQLJDBCJava {
 
     public static void main(String[] args) {
 
-//        SparkConf conf = new SparkConf();
-
         /*
-         * 这里相当于同时设置了 SparkConf 和 SparkSession
+         * SparkSession 封装了 SparkConf、SparkContext 和 SQLContext。
+         * The entry point to programming Spark with the Dataset and DataFrame API
          */
         SparkSession sess = SparkSession.builder()
                 .appName("SQLJava")
@@ -48,7 +44,8 @@ public class SQLJDBCJava {
         prop.put("password", "123");
         prop.put("driver", "com.mysql.jdbc.Driver");
 
-        df2.write().jdbc(url,"sub_stu",prop);
+        // 追加
+        df2.write().mode(SaveMode.Append).jdbc(url,"sub_stu",prop);
         df2.show();
     }
 }

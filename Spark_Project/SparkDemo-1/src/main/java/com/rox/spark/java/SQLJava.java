@@ -13,7 +13,6 @@ public class SQLJava {
 
     public static void main(String[] args) {
 
-        SparkConf conf = new SparkConf();
         SparkSession session = SparkSession.builder()
                 .appName("SQLJava")
                 .config("spark.master","local")
@@ -56,9 +55,5 @@ public class SQLJava {
 
         // 保存为 json , 并不是一个 json 文件, 每行是一个 json 对象
         df1.write().mode(SaveMode.Append).json("file:///Users/shixuanji/Documents/IDEs/iTerm2/Json/2018-07-17-1");
-
-
     }
-
-
 }

@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SparkDemo-1.iml" filepath="$PROJECT_DIR$/SparkDemo-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testhive/testhive.iml" filepath="$PROJECT_DIR$/testhive/testhive.iml" />
     </modules>
   </component>
 </project>
