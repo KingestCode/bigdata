@@ -13,6 +13,9 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * 或者是 extend BaseRishBolt
+ */
 public class CountBolt implements IRichBolt {
 
     private Map<String, Integer> wcMap;

@@ -9,13 +9,19 @@ import org.apache.storm.generated.InvalidTopologyException;
 import org.apache.storm.topology.TopologyBuilder;
 import org.apache.storm.tuple.Fields;
 
+/**
+ * field 分组
+     安装指定filed的key进行hash处理，
+     相同的field，一定进入到同一bolt.
+     该分组容易产生数据倾斜问题，通过使用二次聚合避免此类问题。
+ */
 public class App {
     public static void main(String[] args) throws InterruptedException, InvalidTopologyException, AuthorizationException, AlreadyAliveException {
 
         // 构建拓扑构造器
         TopologyBuilder builder = new TopologyBuilder();
 
-        // 通过实践发现, 这里设置NumTasks为2的话, 同样的数据会发2次
+        // 通过实践发现, 这里设置NumTasks为2的话, 同样的数据会发2次, 相当于2个水龙头
         builder.setSpout("spout-wordcount", new WordcountSpout()).setNumTasks(2);
         builder.setBolt("split-bolt", new SplitBolt(),1).shuffleGrouping("spout-wordcount").setNumTasks(1);
 
