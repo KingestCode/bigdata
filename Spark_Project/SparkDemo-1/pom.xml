@@ -64,16 +64,26 @@
         </dependency>
 
         <!-- SparkStreaming和kafka做整合 -->
-        <!--<dependency>
-            <groupId>org.apache.spark</groupId>
-            <artifactId>spark-streaming-kafka_2.11</artifactId>
-            <version>1.6.3</version>
-        </dependency>-->
         <dependency>
             <groupId>org.apache.spark</groupId>
-            <artifactId>spark-streaming-kafka-0-10_2.11</artifactId>
-            <version>2.3.0</version>
+            <artifactId>spark-streaming-kafka-0-8_2.11</artifactId>
+            <version>${spark.version}</version>
         </dependency>
+
+        <!--<dependency>-->
+            <!--<groupId>org.apache.spark</groupId>-->
+            <!--<artifactId>spark-streaming-kafka-0-10_2.11</artifactId>-->
+            <!--<version>${spark.version}</version>-->
+        <!--</dependency>-->
+
+        <!--注意: 导入此包后, 会导致ZkUtils 的很多方法都用不了, 可能是冲突:TODO 注意 -->
+        <!-- https://mvnrepository.com/artifact/org.apache.kafka/kafka -->
+        <!--<dependency>-->
+        <!--<groupId>org.apache.kafka</groupId>-->
+        <!--<artifactId>kafka_2.11</artifactId>-->
+        <!--<version>1.1.0</version>-->
+        <!--</dependency>-->
+
 
         <dependency>
             <groupId>org.apache.spark</groupId>
@@ -93,12 +103,6 @@
             <version>${spark.version}</version>
         </dependency>
 
-        <!-- https://mvnrepository.com/artifact/org.apache.kafka/kafka -->
-        <dependency>
-            <groupId>org.apache.kafka</groupId>
-            <artifactId>kafka_2.11</artifactId>
-            <version>1.1.0</version>
-        </dependency>
 
         <!-- https://mvnrepository.com/artifact/junit/junit -->
         <dependency>
@@ -107,6 +111,7 @@
             <version>4.12</version>
             <scope>test</scope>
         </dependency>
+
 
 
     </dependencies>

@@ -7,7 +7,7 @@ import org.apache.spark.api.java.*;
 import org.apache.spark.api.java.function.*;
 import org.apache.spark.streaming.Seconds;
 import org.apache.spark.streaming.api.java.*;
-import org.apache.spark.streaming.kafka010.*;
+//import org.apache.spark.streaming.kafka010.*;
 import org.apache.kafka.clients.consumer.ConsumerRecord;
 import org.apache.kafka.common.TopicPartition;
 import org.apache.kafka.common.serialization.StringDeserializer;
@@ -32,7 +32,7 @@ public class KafkaSparkstreamingDemo {
 
         Collection<String> topics = Arrays.asList("kafka-test");
 
-        // 取出 kafka stream
+        /*// 取出 kafka stream
         final JavaInputDStream<ConsumerRecord<String, String>> stream =
                 KafkaUtils.createDirectStream(
                         streamingContext,
@@ -76,6 +76,6 @@ public class KafkaSparkstreamingDemo {
 
         streamingContext.start();
 
-        streamingContext.awaitTermination();
+        streamingContext.awaitTermination();*/
     }
 }

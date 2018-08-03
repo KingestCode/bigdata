@@ -11,7 +11,6 @@ class MyPartition(partitions:Int) extends Partitioner {
 
 
 object TransformationOperations {
-
   def repartitionAndSortWithinPartitions(){
     val conf=new SparkConf().setMaster("local").setAppName("repartitionAndSortWithinPartitions")
     val sc=new SparkContext(conf);
