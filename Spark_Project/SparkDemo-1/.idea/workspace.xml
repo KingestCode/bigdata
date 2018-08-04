@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming-kafka-0-8_2.11/2.3.1/spark-streaming-kafka-0-8_2.11-2.3.1-sources.jar!/org/apache/spark/streaming/kafka/OffsetRange.scala" description="trait HasOffsetRanges {" line="33" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4c72b825-3952-473a-92ab-df7145d5ff2c" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -10,15 +13,126 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SparkDemo-1" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="KafkaDirectWordCount2.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/KafkaDirectWordCount2.scala">
+      <file leaf-file-name="WordCountSparkStreamingJava.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/java/SparkStreaming_java/WordCountSparkStreamingJava.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="659">
-              <caret line="108" column="0" lean-forward="true" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
+            <state relative-caret-position="270">
+              <caret line="33" column="75" lean-forward="true" selection-start-line="33" selection-start-column="75" selection-end-line="33" selection-end-column="75" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordCountJava.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/java/WordCountJava.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="33" column="39" lean-forward="true" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WCSparkStreamWindowApp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/java/SparkStreaming_java/WCSparkStreamWindowApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SparkStreamingCheckpointDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/java/SparkStreaming_java/SparkStreamingCheckpointDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SQLHiveJava_整合hive.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/java/sql_hive_spark/SQLHiveJava_整合hive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SQLJava_sql语法.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/java/sql_hive_spark/SQLJava_sql语法.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SQLJDBCJava_jdbc_mysql.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/java/sql_hive_spark/SQLJDBCJava_jdbc_mysql.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestProcess_cpu核数.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/java/TestProcess_cpu核数.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Transfromation_Java_变换算子全.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/java/Transfromation_Java_变换算子全.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThriftServerClientJava_thriftServer访问hive.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/java/sql_hive_spark/ThriftServerClientJava_thriftServer访问hive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding>
-                <element signature="e#29#66#0" expanded="true" />
+                <marker date="1533384085481" expanded="true" signature="518:567" ph="select * fro... tt" />
               </folding>
             </state>
           </provider>
@@ -30,6 +144,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Package Object" />
       </list>
     </option>
   </component>
@@ -55,7 +170,14 @@
       <find>kafkaStream</find>
       <find>partition</find>
       <find>遍历offsetRanges数组</find>
+      <find>DStream</find>
+      <find>childMainClass</find>
+      <find>app</find>
+      <find>inputV</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -65,33 +187,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/WordCount2.scala" />
-        <option value="$PROJECT_DIR$/datas/stus.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/java/WordCountJava.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/UnionDemo1.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/CoalesceDemo1.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/AggregateByKeyDemo1.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/DataSkewDemo1.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/GroupByKeyDemo1.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/java/TransfromationOperation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/java/ActionOperations.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/java/SQLJava.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/java/SQLJDBCJava.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/java/test.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/SecondSordKey.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/suanzi/GroupByKeyDemo1_分组.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/IntersectionDemo1_交集.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/suanzi/IntersectionDemo1_交集.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/JoinDemo1.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/JoinDemo1_Join.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/suanzi/JoinDemo1_Join.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/LogicRegressWineClassifyDemo.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/LogicRegressWineClassifyDemo_逻辑回归.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/MLLib/LogicRegressWineClassifyDemo_逻辑回归.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/MovieRecommDemo_ALS推荐算法.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/MLLib/MovieRecommDemo_ALS推荐算法.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/PersistScala_缓存.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/RecommDemo_ALS.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/MLLib/RecommDemo_ALS.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/SampleDemo1_采样.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/suanzi/SampleDemo1_采样.scala" />
         <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/SortTest.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/Top3.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/GroupTop3.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/java/SQLHiveJava.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/SparkStreamingDemo.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/java/KafkaSparkstreamingDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/KafkaWordCount.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/StatefulKafkaWordCount.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/KafkaStatefulWordCount.scala" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/KafkaDirectWordCount.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/TransformationOperations.scala" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/KafkaDirectWordCount2.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/SelfDefineSort/SecondSordKey.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/SpamFilterDemo1_逻辑回归_邮件过滤.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/MLLib/SpamFilterDemo1_逻辑回归_邮件过滤.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/SparkMLDemo1.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/SparkMLDemo1_线性回归.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/MLLib/SparkMLDemo1_线性回归.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/TopN/GroupTop3_topN.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/TopN/Top3.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/UnionDemo1_并集不去重.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/suanzi/UnionDemo1_并集不去重.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/suanzi/TransformationOperations_变换大全.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/wordcount/WordCount2.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/wordcount/WordCountSource.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/wordcount/MyWordCount_Scala.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/scala/SparkStreaming/SparkStreamingDemo.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/java/ActionOperations.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/java/ActionOperations_Java.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/java/ActionOperations_Java_transform.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/java/ActionOperations_Java_transform全.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/java/ActionOperations_Java_action全.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/java/SparkStreaming/KafkaSparkstreamingDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/java/SparkStreaming/SparkStreamingCheckpointDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/java/SparkStreaming_java/SparkStreamingCheckpointDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/java/SQLHiveJava_整合hive.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/java/SQLJava_sql.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/java/SQLJava_sql语法.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/java/SQLJDBCJava_jdbc_mysql.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/java/TestProcess.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/java/ThriftServerClientJava_thriftServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/java/ThriftServerClientJava_thriftServer访问hive.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/java/SparkStreaming_java/WCSparkStreamWindowApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/java/SparkStreaming_java/WordCountSparkStreamingJava.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/java/sql_hive_spark/SQLJDBCJava_jdbc_mysql.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rox/spark/java/sql_hive_spark/ThriftServerClientJava_thriftServer访问hive.java" />
       </list>
     </option>
   </component>
@@ -125,10 +271,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="132" />
+    <option name="x" value="68" />
     <option name="y" value="23" />
-    <option name="width" value="1302" />
-    <option name="height" value="831" />
+    <option name="width" value="1293" />
+    <option name="height" value="830" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -376,7 +522,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SparkDemo-1" type="b2602c69:ProjectViewProjectNode" />
@@ -386,29 +532,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="spark" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="TransformationOperations.scala" type="6117b065:FileNode" />
-            </path>
-            <path>
-              <item name="SparkDemo-1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SparkDemo-1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="TransformationOperations.scala" type="6117b065:FileNode" />
-              <item name="MyPartition" type="ce8f04f3:TypeDefinitionNode" />
-            </path>
-            <path>
-              <item name="SparkDemo-1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SparkDemo-1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="TransformationOperations.scala" type="6117b065:FileNode" />
-              <item name="TransformationOperations$" type="ce8f04f3:TypeDefinitionNode" />
             </path>
           </expand>
           <select />
@@ -421,11 +544,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="SearchEverywhereHistoryKey" value="updatePersistentPath&#9;null&#9;null&#10;updatePersisten&#9;null&#9;null&#10;foreach&#9;null&#9;null&#10;reduceByKey&#9;null&#9;null&#10;toDF&#9;null&#9;null&#10;ApplicationDescription&#9;null&#9;null&#10;makeRDD&#9;null&#9;null" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -445,7 +571,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.KafkaDirectWordCount2">
+  <component name="RunManager" selected="Application.SortTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -453,14 +579,33 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="KafkaDirectWordCount" type="Application" factoryName="Application" temporary="true">
+    <configuration name="JedisConnectionPool" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.rox.spark.scala.*" />
+          <option name="PATTERN" value="com.rox.spark.scala.Kafka_redis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.rox.spark.scala.KafkaDirectWordCount" />
+      <option name="MAIN_CLASS_NAME" value="com.rox.spark.scala.Kafka_redis.JedisConnectionPool_redis" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SparkDemo-1" />
+      <envs />
+    </configuration>
+    <configuration name="KafkaDirect2Redis" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.rox.spark.scala.Kafka_redis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.rox.spark.scala.Kafka_redis.KafkaDirect2Redis" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -475,11 +620,11 @@
     <configuration name="KafkaDirectWordCount2" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.rox.spark.scala.*" />
+          <option name="PATTERN" value="com.rox.spark.scala.Kafka_redis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.rox.spark.scala.KafkaDirectWordCount2" />
+      <option name="MAIN_CLASS_NAME" value="com.rox.spark.scala.Kafka_redis.KafkaDirectWordCount2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -491,14 +636,14 @@
       <module name="SparkDemo-1" />
       <envs />
     </configuration>
-    <configuration name="KafkaWordCount" type="Application" factoryName="Application" temporary="true">
+    <configuration name="SortTest" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.rox.spark.scala.*" />
+          <option name="PATTERN" value="com.rox.spark.scala.SelfDefineSort_自定义排序.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.rox.spark.scala.KafkaWordCount" />
+      <option name="MAIN_CLASS_NAME" value="com.rox.spark.scala.SelfDefineSort_自定义排序.SortTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -510,33 +655,14 @@
       <module name="SparkDemo-1" />
       <envs />
     </configuration>
-    <configuration name="SQLHiveJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="WordCountSource" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.rox.spark.java.*" />
+          <option name="PATTERN" value="com.rox.spark.scala.suanzi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.rox.spark.java.SQLHiveJava" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="SparkDemo-1" />
-      <envs />
-    </configuration>
-    <configuration name="StatefulKafkaWordCount" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.rox.spark.scala.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.rox.spark.scala.KafkaStatefulWordCount" />
+      <option name="MAIN_CLASS_NAME" value="com.rox.spark.scala.wordcount.WordCountSource" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -685,19 +811,19 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.SQLHiveJava" />
-      <item index="1" class="java.lang.String" itemvalue="Application.KafkaWordCount" />
-      <item index="2" class="java.lang.String" itemvalue="Application.StatefulKafkaWordCount" />
-      <item index="3" class="java.lang.String" itemvalue="Application.KafkaDirectWordCount" />
-      <item index="4" class="java.lang.String" itemvalue="Application.KafkaDirectWordCount2" />
+      <item index="0" class="java.lang.String" itemvalue="Application.KafkaDirectWordCount2" />
+      <item index="1" class="java.lang.String" itemvalue="Application.JedisConnectionPool" />
+      <item index="2" class="java.lang.String" itemvalue="Application.WordCountSource" />
+      <item index="3" class="java.lang.String" itemvalue="Application.KafkaDirect2Redis" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SortTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.KafkaDirectWordCount2" />
-        <item index="1" class="java.lang.String" itemvalue="Application.KafkaDirectWordCount" />
-        <item index="2" class="java.lang.String" itemvalue="Application.StatefulKafkaWordCount" />
-        <item index="3" class="java.lang.String" itemvalue="Application.KafkaWordCount" />
-        <item index="4" class="java.lang.String" itemvalue="Application.SQLHiveJava" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SortTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.JedisConnectionPool" />
+        <item index="2" class="java.lang.String" itemvalue="Application.KafkaDirect2Redis" />
+        <item index="3" class="java.lang.String" itemvalue="Application.WordCountSource" />
+        <item index="4" class="java.lang.String" itemvalue="Application.KafkaDirectWordCount2" />
       </list>
     </recent_temporary>
   </component>
@@ -729,46 +855,47 @@
       <workItem from="1532971846001" duration="7585000" />
       <workItem from="1533087515602" duration="5049000" />
       <workItem from="1533111481658" duration="9000" />
-      <workItem from="1533170860814" duration="44575000" />
+      <workItem from="1533170860814" duration="74019000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111401000" />
+    <option name="totallyTimeSpent" value="140845000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="132" y="23" width="1302" height="831" extended-state="0" />
+    <frame x="68" y="23" width="1293" height="830" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2730159" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924527" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33773586" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43402225" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959327" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290938" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27315247" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38709676" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26264045" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26190478" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30935252" sideWeight="0.49509117" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286517" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30028063" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997195" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44848484" sideWeight="0.50490886" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959327" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -812,539 +939,466 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="scala-line">
+        <line-breakpoint type="scala-line">
           <url>jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.11/0.8.2.1/kafka_2.11-0.8.2.1-sources.jar!/kafka/utils/ZkUtils.scala</url>
           <line>328</line>
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/wordcount/WordCountSource.scala</url>
+          <line>27</line>
+          <properties>
+            <option name="lambda-ordinal" value="0" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/rox/spark/java/WordCountJava.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="10" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="15" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/LogicRegressWineClassifyDemo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/java/SQLJava.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="17" column="32" lean-forward="false" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.3.1/spark-streaming_2.11-2.3.1-sources.jar!/org/apache/spark/streaming/Duration.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="113" column="6" lean-forward="false" selection-start-line="113" selection-start-column="6" selection-end-line="113" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/java/ThriftServerClientJava.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/java/TransfromationOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="100" column="19" lean-forward="false" selection-start-line="100" selection-start-column="19" selection-end-line="100" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/java/WCSparkStreamWindowApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="38" column="12" lean-forward="true" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/java/WordCountJava.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/java/WordCountSparkStreamingJava.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="33" column="75" lean-forward="false" selection-start-line="33" selection-start-column="75" selection-end-line="33" selection-end-column="75" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.11/1.1.0/kafka_2.11-1.1.0-sources.jar!/kafka/metrics/KafkaMetricsGroup.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="163" column="33" lean-forward="false" selection-start-line="163" selection-start-column="33" selection-end-line="163" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/MyWordCount_Scala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/java/KafkaSparkstreamingDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
-          <caret line="29" column="55" lean-forward="false" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <marker date="1533197172537" expanded="false" signature="1671:1687" ph="&lt;~&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/KafkaWordCount.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-          <folding>
-            <element signature="e#29#62#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/Option.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="144" column="20" lean-forward="false" selection-start-line="144" selection-start-column="20" selection-end-line="144" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.3.1/spark-core_2.11-2.3.1.jar!/org/apache/spark/rdd/RDD.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="34" column="128" lean-forward="false" selection-start-line="34" selection-start-column="128" selection-end-line="34" selection-end-column="128" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.3.1/spark-core_2.11-2.3.1-sources.jar!/org/apache/spark/rdd/MapPartitionsRDD.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="26" column="63" lean-forward="false" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.3.1/spark-streaming_2.11-2.3.1-sources.jar!/org/apache/spark/streaming/dstream/PairDStreamFunctions.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="467" column="5" lean-forward="false" selection-start-line="467" selection-start-column="5" selection-end-line="467" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/concurrent/duration/Duration.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="368" column="30" lean-forward="false" selection-start-line="368" selection-start-column="30" selection-end-line="368" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.3.1/spark-streaming_2.11-2.3.1-sources.jar!/org/apache/spark/streaming/dstream/MappedDStream.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/Kafka_redis/JedisConnectionPool_redis.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="35" column="15" lean-forward="true" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/101tec/zkclient/0.10/zkclient-0.10.jar!/org/I0Itec/zkclient/ZkClient.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/Kafka_redis/CalculateUtil.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+          <folding>
+            <element signature="e#41#72#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/Kafka_redis/KafkaDirect2Redis.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="72" column="8" lean-forward="true" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="8" />
+          <folding>
+            <element signature="e#41#78#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.3.1/spark-core_2.11-2.3.1-sources.jar!/org/apache/spark/rdd/PairRDDFunctions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="846" column="3" lean-forward="false" selection-start-line="846" selection-start-column="3" selection-end-line="846" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/suanzi/AggregateByKeyDemo1_合计.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/suanzi/CartesianDemo1_笛卡尔积.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/suanzi/CoalesceDemo1_合并分区.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/suanzi/CogroupDemo1_全外连接.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/SeqLike.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="601" column="0" lean-forward="true" selection-start-line="601" selection-start-column="0" selection-end-line="601" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/suanzi/DistinctDemo1_去重.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="48" column="13" lean-forward="false" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+          <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/101tec/zkclient/0.10/zkclient-0.10-sources.jar!/org/I0Itec/zkclient/ZkClient.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/suanzi/GroupByKeyDemo1_分组.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/suanzi/IntersectionDemo1_交集.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/DeployModeTest_部署模式_Socket.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="33" column="26" lean-forward="false" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/suanzi/JoinDemo1_Join.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding>
+            <element signature="e#36#67#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib-local_2.11/2.3.1/spark-mllib-local_2.11-2.3.1.jar!/org/apache/spark/ml/linalg/Vectors.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="34" lean-forward="true" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.11/1.1.0/kafka_2.11-1.1.0-sources.jar!/kafka/common/TopicAndPartition.scala">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib-local_2.11/2.3.1/spark-mllib-local_2.11-2.3.1-sources.jar!/org/apache/spark/ml/linalg/Vectors.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        <state relative-caret-position="403">
+          <caret line="207" column="4" lean-forward="true" selection-start-line="207" selection-start-column="4" selection-end-line="207" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.3.1/spark-mllib_2.11-2.3.1.jar!/org/apache/spark/ml/PredictionModel.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/MLLib_机器学习/LogicRegressWineClassifyDemo_逻辑回归.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="259">
+          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+          <folding>
+            <element signature="e#40#100#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.3.1/spark-mllib_2.11-2.3.1-sources.jar!/org/apache/spark/ml/Predictor.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/MLLib_机器学习/MovieRecommDemo_ALS推荐算法.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2790">
-          <caret line="195" column="73" lean-forward="false" selection-start-line="195" selection-start-column="66" selection-end-line="195" selection-end-column="73" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/SparkMLDemo1.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="71" column="32" lean-forward="false" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming-kafka-0-8_2.11/2.3.1/spark-streaming-kafka-0-8_2.11-2.3.1.jar!/org/apache/spark/streaming/kafka/KafkaUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="12" column="750" lean-forward="true" selection-start-line="12" selection-start-column="750" selection-end-line="12" selection-end-column="750" />
-          <folding />
+        <state relative-caret-position="120">
+          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding>
+            <element signature="e#40#85#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.3.1/spark-core_2.11-2.3.1-sources.jar!/org/apache/spark/storage/StorageLevel.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="162" column="6" lean-forward="false" selection-start-line="162" selection-start-column="6" selection-end-line="162" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.11/1.1.0/kafka_2.11-1.1.0-sources.jar!/kafka/message/MessageAndMetadata.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="23" column="11" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/immutable/Map.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="71" column="6" lean-forward="false" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/WordCount2.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-453">
-          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.3.1/spark-core_2.11-2.3.1-sources.jar!/org/apache/spark/SparkContext.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="816" column="86" lean-forward="false" selection-start-line="816" selection-start-column="86" selection-end-line="816" selection-end-column="86" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.3.1/spark-streaming_2.11-2.3.1-sources.jar!/org/apache/spark/streaming/StreamingContext.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="82" column="5" lean-forward="true" selection-start-line="82" selection-start-column="5" selection-end-line="82" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/SpamFilterDemo1.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-76">
-          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/KafkaStatefulWordCount.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="70" column="3" lean-forward="true" selection-start-line="70" selection-start-column="3" selection-end-line="70" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/SparkStreamingDemo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="31" column="15" lean-forward="true" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.11/0.8.2.1/kafka_2.11-0.8.2.1.jar!/kafka/utils/ZkUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.11/1.1.0/kafka_2.11-1.1.0-sources.jar!/kafka/utils/ZkUtils.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="210" column="0" lean-forward="false" selection-start-line="210" selection-start-column="0" selection-end-line="210" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="78" column="58" lean-forward="false" selection-start-line="78" selection-start-column="58" selection-end-line="78" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/KafkaDirectWordCount.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="54" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
-          <folding>
-            <element signature="e#29#66#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/101tec/zkclient/0.3/zkclient-0.3.jar!/org/I0Itec/zkclient/ZkClient.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="320" column="69" lean-forward="false" selection-start-line="320" selection-start-column="69" selection-end-line="320" selection-end-column="69" />
-          <folding>
-            <marker date="1525416410000" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1525416410000" expanded="false" signature="143:1448" ph="..." />
-            <marker date="1525416410000" expanded="false" signature="2093:2104" ph=" { " />
-            <marker date="1525416410000" expanded="false" signature="2135:2141" ph=" }" />
-            <marker date="1525416410000" expanded="true" signature="2204:2290" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="2373:2475" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="2585:2684" ph="{...}" />
-            <marker date="1525416410000" expanded="false" signature="2731:2742" ph=" { " />
-            <marker date="1525416410000" expanded="false" signature="2771:2777" ph=" }" />
-            <marker date="1525416410000" expanded="true" signature="2848:2930" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="3030:3382" ph="{...}" />
-            <marker date="1525416410000" expanded="false" signature="3442:3453" ph=" { " />
-            <marker date="1525416410000" expanded="false" signature="3487:3493" ph=" }" />
-            <marker date="1525416410000" expanded="true" signature="3581:4016" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="4103:4387" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="4465:4958" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="5042:5459" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="5526:5674" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="5748:5904" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="5939:6364" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="6499:6550" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="6708:7240" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="7388:7451" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="7611:7692" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="7826:7896" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="8065:8521" ph="{...}" />
-            <marker date="1525416410000" expanded="false" signature="8311:8391" ph="call() → {" />
-            <marker date="1525416410000" expanded="false" signature="8484:8503" ph="}" />
-            <marker date="1525416410000" expanded="true" signature="8668:8730" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="8889:8969" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="9015:10678" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="10713:11196" ph="{...}" />
-            <marker date="1525416410000" expanded="false" signature="11246:11257" ph=" { " />
-            <marker date="1525416410000" expanded="false" signature="11312:11318" ph=" }" />
-            <marker date="1525416410000" expanded="true" signature="11399:11642" ph="{...}" />
-            <marker date="1525416410000" expanded="false" signature="11447:11535" ph="call() → {" />
-            <marker date="1525416410000" expanded="false" signature="11619:11634" ph="}" />
-            <marker date="1525416410000" expanded="true" signature="11686:11832" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="11903:12134" ph="{...}" />
-            <marker date="1525416410000" expanded="false" signature="11954:12032" ph="call() → {" />
-            <marker date="1525416410000" expanded="false" signature="12111:12126" ph="}" />
-            <marker date="1525416410000" expanded="false" signature="12174:12185" ph=" { " />
-            <marker date="1525416410000" expanded="false" signature="12235:12241" ph=" }" />
-            <marker date="1525416410000" expanded="true" signature="12300:12871" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="12913:13332" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="13173:13313" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="13226:13299" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="13398:13837" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="13671:13818" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="13724:13804" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="13885:14248" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="14298:14771" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="14835:15629" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="15721:16441" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="15970:16422" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="16023:16408" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="16540:17492" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="16830:17331" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="16887:17313" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="17602:18634" ph="{...}" />
-            <marker date="1525416410000" expanded="false" signature="18699:18710" ph=" { " />
-            <marker date="1525416410000" expanded="false" signature="18751:18757" ph=" }" />
-            <marker date="1525416410000" expanded="true" signature="18808:18977" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="19046:19122" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="19222:19312" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="19437:20549" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="20587:20769" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="20915:20961" ph="{}" />
-            <marker date="1525416410000" expanded="true" signature="21021:21199" ph="{...}" />
-            <marker date="1525416410000" expanded="false" signature="21233:21244" ph=" { " />
-            <marker date="1525416410000" expanded="false" signature="21269:21275" ph=" }" />
-            <marker date="1525416410000" expanded="true" signature="21322:21692" ph="{...}" />
-            <marker date="1525416410000" expanded="false" signature="21375:21455" ph="call() → {" />
-            <marker date="1525416410000" expanded="false" signature="21561:21580" ph="}" />
-            <marker date="1525416410000" expanded="false" signature="21735:21746" ph=" { " />
-            <marker date="1525416410000" expanded="false" signature="21788:21794" ph=" }" />
-            <marker date="1525416410000" expanded="false" signature="21839:21850" ph=" { " />
-            <marker date="1525416410000" expanded="false" signature="21916:21922" ph=" }" />
-            <marker date="1525416410000" expanded="false" signature="21962:21973" ph=" { " />
-            <marker date="1525416410000" expanded="false" signature="22007:22013" ph=" }" />
-            <marker date="1525416410000" expanded="true" signature="22089:22354" ph="{...}" />
-            <marker date="1525416410000" expanded="false" signature="22405:22416" ph=" { " />
-            <marker date="1525416410000" expanded="false" signature="22474:22480" ph=" }" />
-            <marker date="1525416410000" expanded="true" signature="22568:22851" ph="{...}" />
-            <marker date="1525416410000" expanded="false" signature="22625:22701" ph="call() → {" />
-            <marker date="1525416410000" expanded="false" signature="22788:22803" ph="}" />
-            <marker date="1525416410000" expanded="false" signature="22906:22917" ph=" { " />
-            <marker date="1525416410000" expanded="false" signature="22950:22956" ph=" }" />
-            <marker date="1525416410000" expanded="true" signature="23036:23452" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="23528:23599" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="23697:24037" ph="{...}" />
-            <marker date="1525416410000" expanded="false" signature="23796:23872" ph="call() → {" />
-            <marker date="1525416410000" expanded="false" signature="24014:24029" ph="}" />
-            <marker date="1525416410000" expanded="true" signature="24087:24321" ph="{...}" />
-            <marker date="1525416410000" expanded="false" signature="24122:24198" ph="call() → {" />
-            <marker date="1525416410000" expanded="false" signature="24298:24313" ph="}" />
-            <marker date="1525416410000" expanded="true" signature="24381:25062" ph="{...}" />
-            <marker date="1525416410000" expanded="false" signature="24655:24747" ph="call() → {" />
-            <marker date="1525416410000" expanded="false" signature="25025:25044" ph="}" />
-            <marker date="1525416410000" expanded="true" signature="25210:26238" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="26285:26712" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="26768:27395" ph="{...}" />
-            <marker date="1525416410000" expanded="true" signature="27426:27737" ph="{...}" />
-            <marker date="1525416410000" expanded="false" signature="27795:27806" ph=" { " />
-            <marker date="1525416410000" expanded="false" signature="27845:27851" ph=" }" />
-            <marker date="1525416410000" expanded="false" signature="27892:27903" ph=" { " />
-            <marker date="1525416410000" expanded="false" signature="27934:27940" ph=" }" />
-            <marker date="1525416410000" expanded="true" signature="27977:28462" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/TransformationOperations.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/101tec/zkclient/0.3/zkclient-0.3-sources.jar!/org/I0Itec/zkclient/ZkClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="426" column="15" lean-forward="false" selection-start-line="426" selection-start-column="15" selection-end-line="426" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming-kafka-0-8_2.11/2.3.1/spark-streaming-kafka-0-8_2.11-2.3.1-sources.jar!/org/apache/spark/streaming/kafka/KafkaRDD.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="46" column="6" lean-forward="false" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming-kafka-0-8_2.11/2.3.1/spark-streaming-kafka-0-8_2.11-2.3.1-sources.jar!/org/apache/spark/streaming/kafka/OffsetRange.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="34" column="6" lean-forward="false" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming-kafka-0-8_2.11/2.3.1/spark-streaming-kafka-0-8_2.11-2.3.1-sources.jar!/org/apache/spark/streaming/kafka/KafkaUtils.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="476" column="31" lean-forward="true" selection-start-line="476" selection-start-column="31" selection-end-line="476" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.11/0.8.2.1/kafka_2.11-0.8.2.1-sources.jar!/kafka/utils/ZkUtils.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="732" column="6" lean-forward="false" selection-start-line="732" selection-start-column="6" selection-end-line="732" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming-kafka-0-8_2.11/2.3.1/spark-streaming-kafka-0-8_2.11-2.3.1.jar!/org/apache/spark/streaming/kafka/OffsetRange.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="126" lean-forward="false" selection-start-line="2" selection-start-column="126" selection-end-line="2" selection-end-column="126" />
+        <state relative-caret-position="223">
+          <caret line="38" column="6" lean-forward="false" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.3.1/spark-core_2.11-2.3.1-sources.jar!/org/apache/spark/rdd/RDD.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="926" column="6" lean-forward="false" selection-start-line="926" selection-start-column="6" selection-end-line="926" selection-end-column="6" />
+        <state relative-caret-position="223">
+          <caret line="187" column="6" lean-forward="false" selection-start-line="187" selection-start-column="6" selection-end-line="187" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.3.1/spark-streaming_2.11-2.3.1-sources.jar!/org/apache/spark/streaming/dstream/InputDStream.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/PersistScala_缓存模式.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="43" column="15" lean-forward="false" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
+        <state relative-caret-position="408">
+          <caret line="37" column="14" lean-forward="false" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.3.1/spark-streaming_2.11-2.3.1-sources.jar!/org/apache/spark/streaming/dstream/DStream.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/MLLib_机器学习/RecommDemo_ALS.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="625" column="6" lean-forward="false" selection-start-line="625" selection-start-column="6" selection-end-line="625" selection-end-column="6" />
+        <state relative-caret-position="75">
+          <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding>
+            <element signature="e#40#98#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/suanzi/SampleDemo1_采样.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka_2.11/0.8.2.1/kafka_2.11-0.8.2.1-sources.jar!/kafka/common/TopicAndPartition.scala">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.3.1/spark-core_2.11-2.3.1-sources.jar!/org/apache/spark/rdd/OrderedRDDFunctions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="57" column="56" lean-forward="true" selection-start-line="57" selection-start-column="56" selection-end-line="57" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/SelfDefineSort_自定义排序/SortTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/SelfDefineSort_自定义排序/SecondSordKey.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/MLLib_机器学习/SpamFilterDemo1_逻辑回归_邮件过滤.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding>
+            <element signature="e#40#75#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/MLLib_机器学习/SparkMLDemo1_线性回归.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding>
+            <element signature="e#40#81#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/TopN/GroupTop3_topN.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/TopN/Top3.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="111" lean-forward="true" selection-start-line="9" selection-start-column="111" selection-end-line="9" selection-end-column="111" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/suanzi/UnionDemo1_并集不去重.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/suanzi/TransformationOperations_变换大全.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/DataSkewDemo1_数据倾斜.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/wordcount/WordCount2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/wordcount/WordCountSource.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/StartModeScala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/wordcount/MyWordCount_Scala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/SparkStreaming/SparkStreamingDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding>
+            <element signature="e#44#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/java/Action_Java_action算子全.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-297">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/java/SparkStreaming_java/KafkaSparkstreamingDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/java/JavaRecommendationExample_推荐.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/java/SparkStreaming_java/SparkStreamingCheckpointDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/java/TestProcess_cpu核数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/java/SparkStreaming_java/WCSparkStreamWindowApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/java/SparkStreaming_java/WordCountSparkStreamingJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="33" column="75" lean-forward="true" selection-start-line="33" selection-start-column="75" selection-end-line="33" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/java/Transfromation_Java_变换算子全.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/java/WordCountJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="33" column="39" lean-forward="true" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/java/sql_hive_spark/SQLHiveJava_整合hive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/java/sql_hive_spark/SQLJava_sql语法.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/java/sql_hive_spark/SQLJDBCJava_jdbc_mysql.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/java/sql_hive_spark/ThriftServerClientJava_thriftServer访问hive.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="24" column="11" lean-forward="false" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rox/spark/scala/KafkaDirectWordCount2.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="659">
-          <caret line="108" column="0" lean-forward="true" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding>
-            <element signature="e#29#66#0" expanded="true" />
+            <marker date="1533384085481" expanded="true" signature="518:567" ph="select * fro... tt" />
           </folding>
         </state>
       </provider>
@@ -1352,9 +1406,81 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.6 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SparkDemo-1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
