@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="HelloES" />
         <module name="LuceneDemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="HelloES" target="1.8" />
       <module name="LuceneDemo" target="1.8" />
     </bytecodeTargetLevel>
   </component>

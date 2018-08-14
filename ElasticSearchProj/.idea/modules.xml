@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/EchartsDemo/EchartsDemo.iml" filepath="$PROJECT_DIR$/EchartsDemo/EchartsDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ElasticSearchProj.iml" filepath="$PROJECT_DIR$/ElasticSearchProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloES/HelloES.iml" filepath="$PROJECT_DIR$/HelloES/HelloES.iml" />
       <module fileurl="file://$PROJECT_DIR$/LuceneDemo/LuceneDemo.iml" filepath="$PROJECT_DIR$/LuceneDemo/LuceneDemo.iml" />
     </modules>
   </component>
