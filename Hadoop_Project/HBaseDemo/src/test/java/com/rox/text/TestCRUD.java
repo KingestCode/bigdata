@@ -6,7 +6,6 @@ import org.apache.hadoop.hbase.client.*;
 import org.apache.hadoop.hbase.filter.*;
 import org.apache.hadoop.hbase.util.Bytes;
 import org.junit.Test;
-import sun.tools.jconsole.Tab;
 
 import java.io.IOException;
 import java.text.DecimalFormat;
