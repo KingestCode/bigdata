@@ -67,30 +67,30 @@ public class HelloWorld {
      * @throws ParseException
      */
     @Test
-    public void testSearch() throws IOException, ParseException {
+            public void testSearch() throws IOException, ParseException {
 
-        String indexPath = "/Users/shixuanji/Documents/dev/lucene/index";
+                String indexPath = "/Users/shixuanji/Documents/dev/lucene/index";
 
-        Analyzer analyzer = new IKAnalyzer(true);
+                Analyzer analyzer = new IKAnalyzer(true);
 
-        DirectoryReader directoryReader = DirectoryReader.open(FSDirectory.open(Paths.get(indexPath)));
-        //索引查询器
-        IndexSearcher indexSearcher = new IndexSearcher(directoryReader);
+                DirectoryReader directoryReader = DirectoryReader.open(FSDirectory.open(Paths.get(indexPath)));
+                //索引查询器
+                IndexSearcher indexSearcher = new IndexSearcher(directoryReader);
 
-        String queryStr = "大数据";
-        //创建一个查询条件解析器
-        QueryParser parser = new QueryParser("content", analyzer);
-        //对查询条件进行解析
-        Query query = parser.parse(queryStr);
+                String queryStr = "大数据";
+                //创建一个查询条件解析器
+                QueryParser parser = new QueryParser("content", analyzer);
+                //对查询条件进行解析
+                Query query = parser.parse(queryStr);
 
-        //TermQuery将查询条件当成是一个固定的词
-        //Query query = new TermQuery(new Term("url", "http://www.edu360.cn/a10010"));
-        //在【索引】中进行查找
-        TopDocs topDocs = indexSearcher.search(query, 10);
+                //TermQuery将查询条件当成是一个固定的词
+                //Query query = new TermQuery(new Term("url", "http://www.edu360.cn/a10010"));
+                //在【索引】中进行查找
+                TopDocs topDocs = indexSearcher.search(query, 10);
 
-        //获取到查找到的文文档ID和得分
-        ScoreDoc[] scoreDocs = topDocs.scoreDocs;
-        for (ScoreDoc scoreDoc : scoreDocs) {
+                //获取到查找到的文文档ID和得分
+                ScoreDoc[] scoreDocs = topDocs.scoreDocs;
+                for (ScoreDoc scoreDoc : scoreDocs) {
             //从索引中查询到文档的ID，
             int doc = scoreDoc.doc;
             //在根据ID到文档中查找文档内容
