@@ -1,0 +1,4 @@
+com/rox/flume/interceptor/JsonInterceptor$Builder.class
+com/rox/flume/source/TailFileSource.class
+com/rox/flume/source/TailFileSource$FileRunnable.class
+com/rox/flume/interceptor/JsonInterceptor.class
