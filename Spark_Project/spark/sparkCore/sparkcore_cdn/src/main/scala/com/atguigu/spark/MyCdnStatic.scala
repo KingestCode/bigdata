@@ -86,8 +86,7 @@ object MyCdnStatic {
 
 
   /**
-    * 计算每小时的流量
-    *
+    * 统计 CDN 每小时的流量
     * @param input
     */
   def flowOfHour(input: RDD[String]): Unit = {
@@ -110,23 +109,22 @@ object MyCdnStatic {
       } catch {
         case ex: Exception => ex.printStackTrace()
       }
-      res    //1.首先过滤掉不符合 时间规则 & http,size 规则的数据
-      //2.获取 (小时,流量)
-      //3.按照小时分组
-      //4.流量求和, 按照小时排序, 顺序, 1个partition 聚合
-      //5.流量换算为 GB, 原本是B
-      input.filter(x => isMatch(httpSizePattern,x))
-        .filter(x => isMatch(timePattern,x))
-        .map(x => getTimeAndSize(x))
-        .groupByKey()
+      res
+    }
+
+    //1.首先过滤掉不符合 时间规则 & http,size 规则的数据
+    //2.获取 (小时,流量)
+    //3.按照小时分组
+    //4.流量求和, 按照小时排序, 顺序, 1个partition 聚合
+    //5.流量换算为 GB, 原本是B
+    input.filter(x => isMatch(httpSizePattern,x))
+      .filter(x => isMatch(timePattern,x))
+      .map(x => getTimeAndSize(x))
+      .groupByKey()
         .map(x => (x._1, x._2.sum))
         .sortByKey(true,1)
         .foreach(x => println(x._1+"时 CDN流量="+x._2/(1024*1024*1024)+"GB"))
 
-    }
-
-
   }
-
 
 }
