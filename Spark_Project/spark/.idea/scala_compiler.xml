@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="sparksql_safeMyAverage,sparksql_hive,sparkmllib_collaborative_filtering,sparkmllib_linear_regression,sparkgraphx_helloworld,sparkcore_accumulator,sparkStreaming,sparkgraphx_practice,sparkstreaming_customerReceiver,sparkcore_partitioner,sparksql_unsafeMyAverage,sparkstreaming_queueRdd,sparkcore_cdn,sparkstreaming_windowWordCount,sparkstreaming_statefulWordCount,sparkgraphx_pagerank,sparkGraphx,sparkMLlib,sparksql_helloworld,sparkstreaming_helloworld,sparkstreaming_kafka,sparkmllib_fpgrowth,sparkCore,sparkcore_wordcount,sparkSql,sparkmllib_kmeans,sparksql_practice,sparkmllib_decision_tree" />
+  </component>
+</project>

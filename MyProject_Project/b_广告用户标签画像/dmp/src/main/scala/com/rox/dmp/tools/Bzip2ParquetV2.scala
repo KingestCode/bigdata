@@ -68,9 +68,11 @@ object Bzip2ParquetV2 {
     })
 
     val dataLog: RDD[Log] = rdd1.map(arr => Log(arr))
-
+    //导入隐式转换，可以直接把 dataFrame 转换为 DF
+//    import sqlContext.implicits._
+//    val dataFrame: DataFrame = dataLog.toDF()
+    //也可以通过 sqlContext 创建
     val dataFrame: DataFrame = sqlContext.createDataFrame(dataLog)
-
     dataFrame.show()
 
     //    dataFrame.createTempView("tmpview")
