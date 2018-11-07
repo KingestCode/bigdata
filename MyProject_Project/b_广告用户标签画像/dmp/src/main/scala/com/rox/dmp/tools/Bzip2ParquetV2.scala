@@ -5,7 +5,7 @@ import org.apache.hadoop.io.{LongWritable, Text}
 import org.apache.hadoop.mapred.TextInputFormat
 import org.apache.spark.{SparkConf, SparkContext}
 import org.apache.spark.rdd.RDD
-import org.apache.spark.sql.{DataFrame, Row, SQLContext}
+import org.apache.spark.sql.{DataFrame, Row, SQLContext, SparkSession}
 
 object Bzip2ParquetV2 {
 
@@ -68,11 +68,18 @@ object Bzip2ParquetV2 {
     })
 
     val dataLog: RDD[Log] = rdd1.map(arr => Log(arr))
-    //导入隐式转换，可以直接把 dataFrame 转换为 DF
+    //0.导入隐式转换，可以直接把 rdd 转换为 DF
 //    import sqlContext.implicits._
 //    val dataFrame: DataFrame = dataLog.toDF()
-    //也可以通过 sqlContext 创建
+
+    //1.也可以通过 sqlContext 创建dataFrame
     val dataFrame: DataFrame = sqlContext.createDataFrame(dataLog)
+
+    //2.使用 SparkSession 也可以转为dataFrame
+//    val ss: SparkSession = SparkSession.builder().getOrCreate()
+//    val df: DataFrame = ss.createDataFrame(dataLog)
+
+
     dataFrame.show()
 
     //    dataFrame.createTempView("tmpview")
@@ -85,5 +92,9 @@ object Bzip2ParquetV2 {
     //    dataFrame.write.csv(resultOutputPath)
 
     sc.stop()
+
+
+
+//    val ss: SparkSession = SparkSession.builder().appName("").config("k","v").enableHiveSupport().getOrCreate()
   }
 }

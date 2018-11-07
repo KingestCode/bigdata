@@ -39,102 +39,110 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5202369">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pom.xml">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="432">
-                  <caret line="54" column="20" lean-forward="false" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="WordCount.scala" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/sparkCore/sparkcore_wordcount/src/main/scala/com.atguigu.spark/WordCount.scala">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="362">
-                  <caret line="27" column="25" lean-forward="false" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="MyCdnStatic.scala" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/sparkCore/sparkcore_cdn/src/main/scala/com/atguigu/spark/MyCdnStatic.scala">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="396">
-                  <caret line="89" column="18" lean-forward="true" selection-start-line="89" selection-start-column="18" selection-end-line="89" selection-end-column="18" />
-                  <folding>
-                    <element signature="e#27#58#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="TraversableOnce.scala" pinned="false" current-in-tab="false">
-            <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/TraversableOnce.scala">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="284">
-                  <caret line="329" column="38" lean-forward="false" selection-start-line="329" selection-start-column="38" selection-end-line="329" selection-end-column="38" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="CdnStatics.scala" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/sparkCore/sparkcore_cdn/src/main/scala/com/atguigu/spark/CdnStatics.scala">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="237">
-                  <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-                  <folding>
-                    <element signature="e#27#58#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/sparkCore/pom.xml">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="124">
-                  <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="23" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/sparkCore/sparkcore_partitioner/pom.xml">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="CdnStatics.scala" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/sparkCore/sparkcore_cdn/src/main/scala/com/atguigu/spark/CdnStatics.scala">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="148">
-                  <caret line="82" column="81" lean-forward="true" selection-start-line="82" selection-start-column="81" selection-end-line="82" selection-end-column="81" />
-                  <folding>
-                    <element signature="e#27#58#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="HelloWorld.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sparkSql/sparksql_helloworld/src/main/scala/com/atguigu/sparksql/HelloWorld.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="33" column="13" lean-forward="false" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+              <folding>
+                <element signature="e#30#70#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WorldCount.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sparkStreaming/sparkstreaming_helloworld/src/main/scala/com/atguigu/streaming/WorldCount.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="22" column="36" lean-forward="false" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomReceiver.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sparkStreaming/sparkstreaming_customerReceiver/src/main/scala/com/atguigu/streaming/CustomReceiver.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="39" column="35" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QueueRdd.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sparkStreaming/sparkstreaming_queueRdd/src/main/scala/com/atguigu/streaming/QueueRdd.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="45" column="1" lean-forward="false" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KafkaStreaming.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sparkStreaming/sparkstreaming_kafka/src/main/scala/com/atguigu/streaming/KafkaStreaming.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="78" column="67" lean-forward="false" selection-start-line="78" selection-start-column="67" selection-end-line="78" selection-end-column="67" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WorldCount.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sparkStreaming/sparkstreaming_statefulWordCount/src/main/scala/com/atguigu/streaming/WorldCount.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="17" column="23" lean-forward="false" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WorldCount.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sparkStreaming/sparkstreaming_windowWordCount/src/main/scala/com/atguigu/streaming/WorldCount.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PooledKafkaProducerAppFactory.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sparkStreaming/sparkstreaming_kafka/src/main/scala/com/atguigu/streaming/PooledKafkaProducerAppFactory.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="68" column="6" lean-forward="false" selection-start-line="68" selection-start-column="6" selection-end-line="68" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Predef.scala" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/Predef.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="129">
+              <caret line="221" column="20" lean-forward="false" selection-start-line="221" selection-start-column="20" selection-end-line="221" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Receiver.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.1.1/spark-streaming_2.11-2.1.1.jar!/org/apache/spark/streaming/receiver/Receiver.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -142,9 +150,17 @@
       <find>JdbcRDD</find>
       <find>main</find>
       <find>scala.version</find>
-      <find>logger</find>
       <find>.mp4</find>
+      <find>logger</find>
+      <find>myAverage</find>
+      <find>\n</find>
+      <find>ReliableKafkaReceiver</find>
+      <find>dropped</find>
+      <find>checkpoint</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -156,15 +172,10 @@
       <list>
         <option value="$PROJECT_DIR$/sparkSql/sparksql_practice/pom.xml" />
         <option value="$PROJECT_DIR$/sparkSql/sparksql_practice/src/main/scala/com/atguigu/spark/Practice.scala" />
-        <option value="$PROJECT_DIR$/sparkStreaming/sparkstreaming_helloworld/src/main/scala/com/atguigu/streaming/WorldCount.scala" />
         <option value="$PROJECT_DIR$/sparkStreaming/sparkstreaming_queueRdd/src/main/scala/com/atguigu/streaming/QueueRdd.scala" />
         <option value="$PROJECT_DIR$/sparkStreaming/pom.xml" />
-        <option value="$PROJECT_DIR$/sparkStreaming/sparkstreaming_customerReceiver/src/main/scala/com/atguigu/streaming/CustomReceiver.scala" />
-        <option value="$PROJECT_DIR$/sparkStreaming/sparkstreaming_statefulWordCount/src/main/scala/com/atguigu/streaming/WorldCount.scala" />
-        <option value="$PROJECT_DIR$/sparkStreaming/sparkstreaming_kafka/src/main/scala/com/atguigu/streaming/KafkaStreaming.scala" />
         <option value="$PROJECT_DIR$/sparkGraphx/sparkgraphx_helloworld/src/main/scala/com/atguigu/graphx/HelloWorld.scala" />
         <option value="$PROJECT_DIR$/sparkStreaming/sparkstreaming_windowWordCount/src/main/resources/log4j.properties" />
-        <option value="$PROJECT_DIR$/sparkStreaming/sparkstreaming_windowWordCount/src/main/scala/com/atguigu/streaming/WorldCount.scala" />
         <option value="$PROJECT_DIR$/sparkGraphx/sparkgraphx_pagerank/src/main/scala/com/atguigu/graphx/PageRank.scala" />
         <option value="$PROJECT_DIR$/sparkGraphx/sparkgraphx_practice/src/main/scala/Practice.scala" />
         <option value="$PROJECT_DIR$/sparkMLlib/sparkmllib_linear_regression/src/main/scala/com/atguigu/mllib/LinearRegression.scala" />
@@ -175,6 +186,16 @@
         <option value="$PROJECT_DIR$/sparkMLlib/sparkmllib_decision_tree/src/main/scala/com/atguigu/mllib/DecisionTreeApp.scala" />
         <option value="$PROJECT_DIR$/sparkCore/sparkcore_cdn/src/main/scala/com/atguigu/spark/CdnStatics.scala" />
         <option value="$PROJECT_DIR$/sparkCore/sparkcore_cdn/src/main/scala/com/atguigu/spark/MyCdnStatic.scala" />
+        <option value="$PROJECT_DIR$/sparkSql/sparksql_unsafeMyAverage/src/main/scala/com/atguigu/spark/MyAve.scala" />
+        <option value="$PROJECT_DIR$/sparkSql/sparksql_unsafeMyAverage/src/main/scala/com/atguigu/spark/MyAverage.scala" />
+        <option value="$PROJECT_DIR$/sparkSql/sparksql_safeMyAverage/src/main/scala/com/atguigu/spark/MyAverage.scala" />
+        <option value="$PROJECT_DIR$/sparkSql/sparksql_safeMyAverage/src/main/scala/com/atguigu/spark/MyAve.scala" />
+        <option value="$PROJECT_DIR$/sparkSql/sparksql_helloworld/src/main/scala/com/atguigu/sparksql/HelloWorld.scala" />
+        <option value="$PROJECT_DIR$/sparkStreaming/sparkstreaming_helloworld/src/main/scala/com/atguigu/streaming/WorldCount.scala" />
+        <option value="$PROJECT_DIR$/sparkStreaming/sparkstreaming_customerReceiver/src/main/scala/com/atguigu/streaming/CustomReceiver.scala" />
+        <option value="$PROJECT_DIR$/sparkStreaming/sparkstreaming_kafka/src/main/scala/com/atguigu/streaming/KafkaStreaming.scala" />
+        <option value="$PROJECT_DIR$/sparkStreaming/sparkstreaming_statefulWordCount/src/main/scala/com/atguigu/streaming/WorldCount.scala" />
+        <option value="$PROJECT_DIR$/sparkStreaming/sparkstreaming_windowWordCount/src/main/scala/com/atguigu/streaming/WorldCount.scala" />
       </list>
     </option>
   </component>
@@ -227,65 +248,6 @@
               <item name="spark" type="b2602c69:ProjectViewProjectNode" />
               <item name="spark" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="sparkCore" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="sparkCore" type="462c0819:PsiDirectoryNode" />
-              <item name="sparkcore_cdn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="sparkCore" type="462c0819:PsiDirectoryNode" />
-              <item name="sparkcore_cdn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="sparkCore" type="462c0819:PsiDirectoryNode" />
-              <item name="sparkcore_cdn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="sparkCore" type="462c0819:PsiDirectoryNode" />
-              <item name="sparkcore_cdn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="sparkCore" type="462c0819:PsiDirectoryNode" />
-              <item name="sparkcore_cdn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="sparkCore" type="462c0819:PsiDirectoryNode" />
-              <item name="sparkcore_cdn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="sparkMLlib" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -323,7 +285,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyCdnStatic">
+  <component name="RunManager" selected="Application.WorldCount (2)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -331,14 +293,14 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="CdnStatics" type="Application" factoryName="Application" temporary="true">
+    <configuration name="CustomReceiver" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.spark.*" />
+          <option name="PATTERN" value="com.atguigu.streaming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.spark.CdnStatics" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.streaming.CustomReceiver" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -347,17 +309,17 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="sparkcore_cdn" />
+      <module name="sparkstreaming_customerReceiver" />
       <envs />
     </configuration>
-    <configuration name="CustomerPartitioner1" type="Application" factoryName="Application" temporary="true">
+    <configuration name="QueueRdd" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.spark.*" />
+          <option name="PATTERN" value="com.atguigu.streaming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.spark.CustomerPartitioner1" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.streaming.QueueRdd" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -366,17 +328,17 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="sparkcore_partitioner" />
+      <module name="sparkstreaming_queueRdd" />
       <envs />
     </configuration>
-    <configuration name="DecisionTreeApp" type="Application" factoryName="Application" temporary="true">
+    <configuration name="WorldCount (1)" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.mllib.*" />
+          <option name="PATTERN" value="com.atguigu.streaming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.mllib.DecisionTreeApp" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.streaming.WorldCount" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -385,17 +347,17 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="sparkmllib_decision_tree" />
+      <module name="sparkstreaming_statefulWordCount" />
       <envs />
     </configuration>
-    <configuration name="KMeansCluster" type="Application" factoryName="Application" temporary="true">
+    <configuration name="WorldCount (2)" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.mllib.*" />
+          <option name="PATTERN" value="com.atguigu.streaming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.mllib.KMeansCluster" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.streaming.WorldCount" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -404,17 +366,17 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="sparkmllib_kmeans" />
+      <module name="sparkstreaming_windowWordCount" />
       <envs />
     </configuration>
-    <configuration name="MyCdnStatic" type="Application" factoryName="Application" temporary="true">
+    <configuration name="WorldCount" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.spark.*" />
+          <option name="PATTERN" value="com.atguigu.streaming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.spark.MyCdnStatic" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.streaming.WorldCount" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -423,7 +385,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="sparkcore_cdn" />
+      <module name="sparkstreaming_helloworld" />
       <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -501,19 +463,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.KMeansCluster" />
-      <item index="1" class="java.lang.String" itemvalue="Application.DecisionTreeApp" />
-      <item index="2" class="java.lang.String" itemvalue="Application.CustomerPartitioner1" />
-      <item index="3" class="java.lang.String" itemvalue="Application.CdnStatics" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MyCdnStatic" />
+      <item index="0" class="java.lang.String" itemvalue="Application.WorldCount" />
+      <item index="1" class="java.lang.String" itemvalue="Application.CustomReceiver" />
+      <item index="2" class="java.lang.String" itemvalue="Application.QueueRdd" />
+      <item index="3" class="java.lang.String" itemvalue="Application.WorldCount (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.WorldCount (2)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MyCdnStatic" />
-        <item index="1" class="java.lang.String" itemvalue="Application.CdnStatics" />
-        <item index="2" class="java.lang.String" itemvalue="Application.CustomerPartitioner1" />
-        <item index="3" class="java.lang.String" itemvalue="Application.DecisionTreeApp" />
-        <item index="4" class="java.lang.String" itemvalue="Application.KMeansCluster" />
+        <item index="0" class="java.lang.String" itemvalue="Application.WorldCount (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.WorldCount (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.QueueRdd" />
+        <item index="3" class="java.lang.String" itemvalue="Application.CustomReceiver" />
+        <item index="4" class="java.lang.String" itemvalue="Application.WorldCount" />
       </list>
     </recent_temporary>
   </component>
@@ -546,16 +508,15 @@
       <workItem from="1515749212246" duration="297000" />
       <workItem from="1516453051629" duration="50000" />
       <workItem from="1516494530087" duration="51000" />
-      <workItem from="1539269423134" duration="10030000" />
+      <workItem from="1539269423134" duration="26685000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61409000" />
+    <option name="totallyTimeSpent" value="78064000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="831" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.83037156" sideWeight="0.50647247" order="7" side_tool="true" content_ui="tabs" />
@@ -566,17 +527,17 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997195" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32819074" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4502104" sideWeight="0.4935275" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35904628" sideWeight="0.4935275" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27539343" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30114448" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -633,91 +594,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sparkGraphx/sparkgraphx_pagerank/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparkGraphx/sparkgraphx_practice/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-graphx_2.11/2.1.1/spark-graphx_2.11-2.1.1.jar!/org/apache/spark/graphx/Graph.class" />
-    <entry file="file://$PROJECT_DIR$/sparkStreaming/sparkstreaming_helloworld/src/main/scala/com/atguigu/streaming/WorldCount.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="24" column="45" lean-forward="false" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparkStreaming/sparkstreaming_statefulWordCount/src/main/scala/com/atguigu/streaming/WorldCount.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="27" column="25" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.1.1/spark-streaming_2.11-2.1.1-sources.jar!/org/apache/spark/streaming/StreamingContext.scala" />
-    <entry file="file://$PROJECT_DIR$/sparkGraphx/sparkgraphx_helloworld/src/main/scala/com/atguigu/graphx/HelloWorld.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="39" column="26" lean-forward="false" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparkStreaming/sparkstreaming_kafka/src/main/scala/com/atguigu/streaming/KafkaStreaming.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="78" column="21" lean-forward="false" selection-start-line="78" selection-start-column="21" selection-end-line="78" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.1.1/spark-core_2.11-2.1.1-sources.jar!/org/apache/spark/rdd/RDD.scala" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-graphx_2.11/2.1.1/spark-graphx_2.11-2.1.1.jar!/org/apache/spark/graphx/Edge.class" />
-    <entry file="file://$PROJECT_DIR$/sparkStreaming/sparkstreaming_windowWordCount/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparkStreaming/sparkstreaming_windowWordCount/src/main/scala/com/atguigu/streaming/WorldCount.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="25" column="19" lean-forward="false" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-graphx_2.11/2.1.1/spark-graphx_2.11-2.1.1.jar!/org/apache/spark/graphx/GraphOps.class" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-graphx_2.11/2.1.1/spark-graphx_2.11-2.1.1-sources.jar!/org/apache/spark/graphx/Edge.scala" />
-    <entry file="file://$PROJECT_DIR$/sparkGraphx/doc/graphx-wiki-edges.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="39" lean-forward="false" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparkGraphx/doc/graphx-wiki-vertices.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2128">
-          <caret line="133" column="40" lean-forward="false" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-graphx_2.11/2.1.1/spark-graphx_2.11-2.1.1-sources.jar!/org/apache/spark/graphx/GraphOps.scala" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-graphx_2.11/2.1.1/spark-graphx_2.11-2.1.1-sources.jar!/org/apache/spark/graphx/lib/PageRank.scala" />
-    <entry file="file://$PROJECT_DIR$/sparkGraphx/sparkgraphx_pagerank/src/main/scala/com/atguigu/graphx/PageRank.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sparkGraphx/sparkgraphx_practice/src/main/scala/Practice.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
@@ -930,9 +806,9 @@
     <entry file="file://$PROJECT_DIR$/sparkCore/sparkcore_cdn/src/main/scala/com/atguigu/spark/CdnStatics.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="237">
-          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding>
-            <element signature="e#27#58#0" expanded="true" />
+            <element signature="e#27#58#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -947,11 +823,165 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sparkCore/sparkcore_cdn/src/main/scala/com/atguigu/spark/MyCdnStatic.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="89" column="18" lean-forward="true" selection-start-line="89" selection-start-column="18" selection-end-line="89" selection-end-column="18" />
+        <state relative-caret-position="466">
+          <caret line="99" column="5" lean-forward="false" selection-start-line="99" selection-start-column="5" selection-end-line="99" selection-end-column="5" />
           <folding>
-            <element signature="e#27#58#0" expanded="true" />
+            <element signature="e#27#58#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkSql/sparksql_unsafeMyAverage/src/main/scala/com/atguigu/spark/MyAve.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkSql/sparksql_unsafeMyAverage/src/main/scala/com/atguigu/spark/MyAverage.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="58" column="162" lean-forward="false" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="162" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkSql/sparksql_safeMyAverage/src/main/scala/com/atguigu/spark/MyAve.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="25" column="2" lean-forward="false" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.1.1/spark-sql_2.11-2.1.1.jar!/org/apache/spark/sql/expressions/Aggregator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkSql/sparksql_safeMyAverage/src/main/scala/com/atguigu/spark/MyAverage.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkSql/doc/employees.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkSql/doc/tbStockDetail.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3655">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkSql/doc/tbStock.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkSql/doc/tbDate.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="30" lean-forward="false" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.1.1/spark-streaming_2.11-2.1.1.jar!/org/apache/spark/streaming/receiver/Receiver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkStreaming/sparkstreaming_helloworld/src/main/scala/com/atguigu/streaming/WorldCount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="22" column="36" lean-forward="false" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkStreaming/sparkstreaming_customerReceiver/src/main/scala/com/atguigu/streaming/CustomReceiver.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="39" column="35" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkSql/sparksql_helloworld/src/main/scala/com/atguigu/sparksql/HelloWorld.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="33" column="13" lean-forward="false" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          <folding>
+            <element signature="e#30#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/Predef.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="221" column="20" lean-forward="false" selection-start-line="221" selection-start-column="20" selection-end-line="221" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkStreaming/sparkstreaming_kafka/src/main/scala/com/atguigu/streaming/PooledKafkaProducerAppFactory.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="68" column="6" lean-forward="false" selection-start-line="68" selection-start-column="6" selection-end-line="68" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkStreaming/sparkstreaming_kafka/src/main/scala/com/atguigu/streaming/KafkaStreaming.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="78" column="67" lean-forward="false" selection-start-line="78" selection-start-column="67" selection-end-line="78" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkStreaming/sparkstreaming_queueRdd/src/main/scala/com/atguigu/streaming/QueueRdd.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="45" column="1" lean-forward="false" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkStreaming/sparkstreaming_statefulWordCount/src/main/scala/com/atguigu/streaming/WorldCount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="17" column="23" lean-forward="false" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkStreaming/sparkstreaming_windowWordCount/src/main/scala/com/atguigu/streaming/WorldCount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>

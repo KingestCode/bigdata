@@ -113,6 +113,9 @@ public class HBaseUtil {
     }
 
     //生成分区号（13712341234，2017-05-02 12:23:55）
+    // HBASE执行流程
+        //首先在创建表的时候, 添加进预分区键, 预分区键用 0x, 或者 xx 都可以, 是自己定义的
+        //在设计 rowkey 的时候, 要同时考虑到离散和聚合, 离散是为了避免热点, 聚合是为了业务需要, 比如业务要统计每天,月,年订单, 此时如果按照年来聚合,数据量会过大, 此时可以按照月聚合, 因此把每一天数据, 按照用户名(后台会有用户名对应 id)取出id 的一定位数特征, 与 年月 取 ^(抑或), 然后再模以 region 数, 就可以得到一个 0x 的数, 会落到一个分区中, 此用户在一个月内的订单数据都会落到一个 region 中
     public static String getRowHash(int regions, String caller, String buildTime) {
 
         DecimalFormat df = new DecimalFormat("00");

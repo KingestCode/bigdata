@@ -17,7 +17,7 @@ object WorldCount {
     ssc.checkpoint("./checkpoint")
 
     // Create a DStream that will connect to hostname:port, like localhost:9999
-    val lines = ssc.socketTextStream("master01", 9000)
+    val lines = ssc.socketTextStream("localhost", 9000)
 
     // Split each line into words
     val words = lines.flatMap(_.split(" "))
@@ -31,7 +31,7 @@ object WorldCount {
     // 窗口大小 为12s， 12/3 = 4  滑动步长 6S，   6/3 =2
     //val wordCounts = pairs.reduceByKeyAndWindow((a:Int,b:Int) => (a + b),Seconds(12), Seconds(6))
 
-    val wordCounts2 = pairs.reduceByKeyAndWindow(_ + _,_ - _ ,Seconds(12), Seconds(6))
+    val wordCounts2 = pairs.reduceByKeyAndWindow(_ + _, _ - _ ,Seconds(12), Seconds(6))
 
     // Print the first ten elements of each RDD generated in this DStream to the console
     wordCounts2.print()

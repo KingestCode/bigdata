@@ -56,7 +56,7 @@ object MyAverage extends UserDefinedAggregateFunction {
 
     spark.udf.register("myAverage", MyAverage)
 
-    val df = spark.read.json("C:\\Users\\Administrator\\Desktop\\Spark\\3.code\\spark\\doc\\employees.json")
+    val df = spark.read.json("/Users/shixuanji/Documents/Resources/JarFiles/Bigdata/Spark/bin/spark-2.1.3-bin-hadoop2.7/examples/src/main/resources/employees.json")
     df.createOrReplaceTempView("employees")
     df.show()
 

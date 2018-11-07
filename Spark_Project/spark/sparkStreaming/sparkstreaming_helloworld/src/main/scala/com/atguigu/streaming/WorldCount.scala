@@ -14,7 +14,7 @@ object WorldCount {
     val ssc = new StreamingContext(conf, Seconds(1))
 
     // Create a DStream that will connect to hostname:port, like localhost:9999
-    val lines = ssc.socketTextStream("master01", 9999)
+    val lines = ssc.socketTextStream("localhost", 9999)
 
     // Split each line into words
     val words = lines.flatMap(_.split(" "))

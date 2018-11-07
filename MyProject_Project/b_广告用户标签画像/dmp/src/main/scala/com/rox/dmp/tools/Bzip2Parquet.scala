@@ -5,7 +5,7 @@ import com.rox.dmp.utils.SchemaUtils
 import org.apache.hadoop.io.{LongWritable, Text}
 import org.apache.hadoop.mapred.TextInputFormat
 import org.apache.spark.rdd.RDD
-import org.apache.spark.sql.{DataFrame, Row, SQLContext}
+import org.apache.spark.sql.{DataFrame, Row, SQLContext, SparkSession}
 import org.apache.spark.sql.types.{StringType, StructField, StructType}
 import org.apache.spark.{SparkConf, SparkContext}
 
@@ -43,8 +43,6 @@ Diagnostics: File does not exist: hdfs://mycluster/user/ap/.sparkStaging/applica
 java.io.FileNotFoundException: File does not exist: hdfs://mycluster/user/ap/.sparkStaging/application_1536038023803_0001/dmp-1.0-SNAPSHOT.jar
       */
     sparkConf.setMaster("local[*]")
-
-
 
     // RDD序列化到磁盘  worker 与 worker 之间的数据传输
     sparkConf.set("spark.serializer", "org.apache.spark.serializer.KryoSerializer")

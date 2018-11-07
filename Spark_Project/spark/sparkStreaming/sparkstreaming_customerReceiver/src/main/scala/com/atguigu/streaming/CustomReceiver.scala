@@ -69,7 +69,7 @@ object CustomReceiver {
 
     // Create a DStream that will connect to hostname:port, like localhost:9999
 
-    val lines = ssc.receiverStream(new CustomReceiver("master01", 9999))
+    val lines = ssc.receiverStream(new CustomReceiver("localhost", 9999))
 
     // Split each line into words
     val words = lines.flatMap(_.split(" "))

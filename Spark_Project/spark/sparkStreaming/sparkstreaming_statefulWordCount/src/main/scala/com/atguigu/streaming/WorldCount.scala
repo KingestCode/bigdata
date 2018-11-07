@@ -18,7 +18,7 @@ object WorldCount {
     ssc.checkpoint(".")
 
     // 通过StreamingContext来获取master01机器上9999端口传过来的语句
-    val lines = ssc.socketTextStream("master01", 9999)
+    val lines = ssc.socketTextStream("localhost", 9999)
 
     // 需要通过空格将语句中的单词进行分割DStream[RDD[String]]
     val words = lines.flatMap(_.split(" "))
@@ -43,7 +43,7 @@ object WorldCount {
     val stateDstream = pairs.updateStateByKey[Int](updateFunc)
     //输出
     stateDstream.print()
-    stateDstream.saveAsTextFiles("hdfs://master01:9000/statful/","abc")
+//    stateDstream.saveAsTextFiles(".","abc")
 
     ssc.start()             // Start the computation
     ssc.awaitTermination()  // Wait for the computation to terminate

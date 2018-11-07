@@ -18,7 +18,7 @@ class MyAve extends UserDefinedAggregateFunction{
   // 返回值的数据类型
   override def dataType: DataType = ???
 
-  // 对于相同的输入一直有相同的输出
+  // 对于相同的数据集输入一直有相同的输出(幂等性)
   override def deterministic: Boolean = true
 
   //用于初始化你的数据结构

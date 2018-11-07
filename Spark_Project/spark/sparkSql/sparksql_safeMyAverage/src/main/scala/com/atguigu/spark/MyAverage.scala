@@ -48,7 +48,7 @@ object MyAverage{
 
     import spark.implicits._
     // For implicit conversions like converting RDDs to DataFrames
-    val ds = spark.read.json("C:\\Users\\Administrator\\Desktop\\【尚硅谷】大数据技术之Spark\\3.code\\spark\\sparkSql\\doc\\employees.json").as[Employee]
+    val ds = spark.read.json("/Users/shixuanji/Documents/Resources/JarFiles/Bigdata/Spark/bin/spark-2.1.3-bin-hadoop2.7/examples/src/main/resources/employees.json").as[Employee]
     ds.show()
 
     val averageSalary = new MyAverage().toColumn.name("average_salary")
